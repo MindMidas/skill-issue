@@ -116,6 +116,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 695 | [Max Area of Island](0695-max-area-of-island.py) | [2026-09-03 17:12](https://leetcode.com/problems/max-area-of-island/submissions/2130101085) |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream.py) | [2026-09-01 12:45](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2127485577) |
 | 704 | [Binary Search](0704-binary-search.py) | [2026-08-26 14:09](https://leetcode.com/problems/binary-search/submissions/2121154639) |
+| 735 | [Asteroid Collision](0735-asteroid-collision.py) | [2026-10-23 13:50](https://leetcode.com/problems/asteroid-collision/submissions/2179897572) |
 | 739 | [Daily Temperatures](0739-daily-temperatures.py) | [2026-08-16 19:50](https://leetcode.com/problems/daily-temperatures/submissions/2109529459) |
 | 743 | [Network Delay Time](0743-network-delay-time.py) | [2026-09-05 15:26](https://leetcode.com/problems/network-delay-time/submissions/2132106135) |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs.py) | [2026-09-06 15:01](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2133220952) |

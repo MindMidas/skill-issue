@@ -56,6 +56,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 98 | [Validate Binary Search Tree](0098-validate-binary-search-tree.py) | [2026-08-29 15:31](https://leetcode.com/problems/validate-binary-search-tree/submissions/2124296791) |
 | 100 | [Same Tree](0100-same-tree.py) | [2026-08-29 12:03](https://leetcode.com/problems/same-tree/submissions/2124088308) |
 | 102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal.py) | [2026-08-29 14:07](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2124224629) |
+| 103 | [Binary Tree Zigzag Level Order Traversal](0103-binary-tree-zigzag-level-order-traversal.py) | [2026-10-24 16:26](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2180848501) |
 | 104 | [Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree.py) | [2026-08-28 21:21](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2123364496) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](0105-construct-binary-tree-from-preorder-and-inorder-traversal.py) | [2026-08-30 15:54](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/2125446297) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](0106-construct-binary-tree-from-inorder-and-postorder-traversal.py) | [2026-09-19 14:00](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/2146922413) |

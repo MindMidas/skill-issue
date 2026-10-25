@@ -131,6 +131,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 846 | [Hand of Straights](0846-hand-of-straights.py) | [2026-09-03 14:29](https://leetcode.com/problems/hand-of-straights/submissions/2129988458) |
 | 853 | [Car Fleet](0853-car-fleet.py) | [2026-08-23 15:42](https://leetcode.com/problems/car-fleet/submissions/2117776202) |
 | 875 | [Koko Eating Bananas](0875-koko-eating-bananas.py) | [2026-08-26 15:00](https://leetcode.com/problems/koko-eating-bananas/submissions/2121211935) |
+| 895 | [Maximum Frequency Stack](0895-maximum-frequency-stack.py) | [2026-10-25 13:33](https://leetcode.com/problems/maximum-frequency-stack/submissions/2181606698) |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin.py) | [2026-09-01 14:13](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2127615500) |
 | 981 | [Time Based Key-Value Store](0981-time-based-key-value-store.py) | [2026-08-26 21:59](https://leetcode.com/problems/time-based-key-value-store/submissions/2121386085) |
 | 994 | [Rotting Oranges](0994-rotting-oranges.py) | [2026-09-04 12:51](https://leetcode.com/problems/rotting-oranges/submissions/2130930729) |

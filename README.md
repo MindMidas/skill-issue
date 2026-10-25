@@ -32,6 +32,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 36 | [Valid Sudoku](0036-valid-sudoku.py) | [2026-08-11 18:26](https://leetcode.com/problems/valid-sudoku/submissions/2103470772) |
 | 39 | [Combination Sum](0039-combination-sum.py) | [2026-08-31 13:03](https://leetcode.com/problems/combination-sum/submissions/2126377560) |
 | 40 | [Combination Sum II](0040-combination-sum-ii.py) | [2026-08-31 13:23](https://leetcode.com/problems/combination-sum-ii/submissions/2126404298) |
+| 41 | [First Missing Positive](0041-first-missing-positive.py) | [2026-10-25 16:13](https://leetcode.com/problems/first-missing-positive/submissions/2181718566) |
 | 42 | [Trapping Rain Water](0042-trapping-rain-water.py) | [2026-08-24 12:52](https://leetcode.com/problems/trapping-rain-water/submissions/2118714163) |
 | 45 | [Jump Game II](0045-jump-game-ii.py) | [2026-09-02 14:00](https://leetcode.com/problems/jump-game-ii/submissions/2128812038) |
 | 46 | [Permutations](0046-permutations.py) | [2026-08-31 13:46](https://leetcode.com/problems/permutations/submissions/2126434353) |

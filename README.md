@@ -66,6 +66,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock.py) | [2026-08-24 13:36](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2118776815) |
 | 124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum.py) | [2026-08-30 15:56](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/2125447444) |
 | 125 | [Valid Palindrome](0125-valid-palindrome.py) | [2026-08-23 16:30](https://leetcode.com/problems/valid-palindrome/submissions/2117804420) |
+| 126 | [Word Ladder II](0126-word-ladder-ii.py) | [2026-10-26 13:06](https://leetcode.com/problems/word-ladder-ii/submissions/2182437165) |
 | 127 | [Word Ladder](0127-word-ladder.py) | [2026-09-05 14:50](https://leetcode.com/problems/word-ladder/submissions/2132079017) |
 | 128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence.py) | [2026-08-12 12:56](https://leetcode.com/problems/longest-consecutive-sequence/submissions/2104492590) |
 | 130 | [Surrounded Regions](0130-surrounded-regions.py) | [2026-09-04 14:25](https://leetcode.com/problems/surrounded-regions/submissions/2131038456) |

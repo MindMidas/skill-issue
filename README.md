@@ -40,6 +40,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 49 | [Group Anagrams](0049-group-anagrams.py) | [2026-08-11 16:16](https://leetcode.com/problems/group-anagrams/submissions/2103412019) |
 | 51 | [N-Queens](0051-n-queens.py) | [2026-08-31 20:48](https://leetcode.com/problems/n-queens/submissions/2126667848) |
 | 53 | [Maximum Subarray](0053-maximum-subarray.py) | [2026-09-02 12:23](https://leetcode.com/problems/maximum-subarray/submissions/2128675181) |
+| 54 | [Spiral Matrix](0054-spiral-matrix.py) | [2026-10-26 12:21](https://leetcode.com/problems/spiral-matrix/submissions/2182392797) |
 | 55 | [Jump Game](0055-jump-game.py) | [2026-09-02 13:17](https://leetcode.com/problems/jump-game/submissions/2128749634) |
 | 56 | [Merge Intervals](0056-merge-intervals.py) | [2026-09-02 10:54](https://leetcode.com/problems/merge-intervals/submissions/2128568528) |
 | 57 | [Insert Interval](0057-insert-interval.py) | [2026-09-01 20:50](https://leetcode.com/problems/insert-interval/submissions/2127824112) |

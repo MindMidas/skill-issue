@@ -81,6 +81,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 150 | [Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation.py) | [2026-08-12 13:52](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2104580217) |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array.py) | [2026-08-26 20:00](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2121348480) |
 | 155 | [Min Stack](0155-min-stack.py) | [2026-08-12 13:34](https://leetcode.com/problems/min-stack/submissions/2104551945) |
+| 189 | [Rotate Array](0189-rotate-array.py) | [2026-10-26 14:22](https://leetcode.com/problems/rotate-array/submissions/2182514280) |
 | 198 | [House Robber](0198-house-robber.py) | [2026-09-06 16:07](https://leetcode.com/problems/house-robber/submissions/2133264380) |
 | 199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view.py) | [2026-08-29 14:24](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2124242450) |
 | 200 | [Number of Islands](0200-number-of-islands.py) | [2026-09-03 16:52](https://leetcode.com/problems/number-of-islands/submissions/2130092148) |

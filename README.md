@@ -74,6 +74,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 133 | [Clone Graph](0133-clone-graph.py) | [2026-09-03 22:52](https://leetcode.com/problems/clone-graph/submissions/2130211344) |
 | 134 | [Gas Station](0134-gas-station.py) | [2026-09-03 11:49](https://leetcode.com/problems/gas-station/submissions/2129787955) |
 | 138 | [Copy List with Random Pointer](0138-copy-list-with-random-pointer.py) | [2026-08-27 18:18](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/2122390328) |
+| 139 | [Word Break](0139-word-break.py) | [2026-10-26 13:44](https://leetcode.com/problems/word-break/submissions/2182475971) |
 | 141 | [Linked List Cycle](0141-linked-list-cycle.py) | [2026-08-27 16:33](https://leetcode.com/problems/linked-list-cycle/submissions/2122349548) |
 | 143 | [Reorder List](0143-reorder-list.py) | [2026-08-27 17:29](https://leetcode.com/problems/reorder-list/submissions/2122373637) |
 | 146 | [LRU Cache](0146-lru-cache.py) | [2026-09-08 13:42](https://leetcode.com/problems/lru-cache/submissions/2135463558) |

@@ -101,6 +101,7 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self.py) | [2026-08-11 17:38](https://leetcode.com/problems/product-of-array-except-self/submissions/2103453594) |
 | 239 | [Sliding Window Maximum](0239-sliding-window-maximum.py) | [2026-08-26 12:23](https://leetcode.com/problems/sliding-window-maximum/submissions/2121020513) |
 | 242 | [Valid Anagram](0242-valid-anagram.py) | [2026-08-11 15:36](https://leetcode.com/problems/valid-anagram/submissions/2103383476) |
+| 253 | [Meeting Rooms II](0253-meeting-rooms-ii.py) | [2026-10-26 20:41](https://leetcode.com/problems/meeting-rooms-ii/submissions/2182667532) |
 | 287 | [Find the Duplicate Number](0287-find-the-duplicate-number.py) | [2026-08-28 17:19](https://leetcode.com/problems/find-the-duplicate-number/submissions/2123302074) |
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream.py) | [2026-09-01 19:59](https://leetcode.com/problems/find-median-from-data-stream/submissions/2127807191) |
 | 297 | [Serialize and Deserialize Binary Tree](0297-serialize-and-deserialize-binary-tree.py) | [2026-08-30 14:38](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/2125391039) |

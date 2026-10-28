@@ -2,7 +2,9 @@
 
 Turning skill issues into accepted submissions.
 
-My LeetCode solutions in Python, with short notes on the approach and complexity.
+My LeetCode and HackerRank solutions in Python, with short notes on the approach and complexity.
+
+## LeetCode
 
 | # | Problem | Submitted (Toronto) |
 | --- | --- | --- |
@@ -154,3 +156,9 @@ My LeetCode solutions in Python, with short notes on the approach and complexity
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum.py) | [2026-10-23 15:00](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/submissions/2179954773) |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](2357-make-array-zero-by-subtracting-equal-amounts.py) | [2026-08-23 14:23](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/submissions/2117708314) |
 | 2697 | [Lexicographically Smallest Palindrome](2697-lexicographically-smallest-palindrome.py) | [2026-09-21 19:30](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/2149157566) |
+
+## HackerRank
+
+| Problem | Solution |
+| --- | --- |
+| Sorting: Bubble Sort | [Python](hackerrank/sorting-bubble-sort.py) |

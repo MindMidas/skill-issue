@@ -164,4 +164,5 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2D Array - DS | [Python](hackerrank/2d-array-ds.py) |
 | Candies | [Python](hackerrank/candies.py) |
 | Hash Tables: Ice Cream Parlor | [Python](hackerrank/hash-tables-ice-cream-parlor.py) |
+| Making Candies | [Python](hackerrank/making-candies.py) |
 | Sorting: Bubble Sort | [Python](hackerrank/sorting-bubble-sort.py) |

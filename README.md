@@ -161,4 +161,5 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 
 | Problem | Solution |
 | --- | --- |
+| 2D Array - DS | [Python](hackerrank/2d-array-ds.py) |
 | Sorting: Bubble Sort | [Python](hackerrank/sorting-bubble-sort.py) |

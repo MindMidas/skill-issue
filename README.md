@@ -121,6 +121,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 494 | [Target Sum](0494-target-sum.py) | [2026-09-07 13:05](https://leetcode.com/problems/target-sum/submissions/2134179839) |
 | 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree.py) | [2026-08-28 21:39](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2123368930) |
+| 545 | [Boundary of Binary Tree](0545-boundary-of-binary-tree.py) | [2026-10-29 12:01](https://leetcode.com/problems/boundary-of-binary-tree/submissions/2184854171) |
 | 567 | [Permutation in String](0567-permutation-in-string.py) | [2026-08-24 15:26](https://leetcode.com/problems/permutation-in-string/submissions/2118903113) |
 | 572 | [Subtree of Another Tree](0572-subtree-of-another-tree.py) | [2026-08-29 12:45](https://leetcode.com/problems/subtree-of-another-tree/submissions/2124133091) |
 | 621 | [Task Scheduler](0621-task-scheduler.py) | [2026-09-01 15:04](https://leetcode.com/problems/task-scheduler/submissions/2127673871) |

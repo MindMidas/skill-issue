@@ -124,6 +124,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 545 | [Boundary of Binary Tree](0545-boundary-of-binary-tree.py) | [2026-10-29 12:01](https://leetcode.com/problems/boundary-of-binary-tree/submissions/2184854171) |
 | 567 | [Permutation in String](0567-permutation-in-string.py) | [2026-08-24 15:26](https://leetcode.com/problems/permutation-in-string/submissions/2118903113) |
 | 572 | [Subtree of Another Tree](0572-subtree-of-another-tree.py) | [2026-08-29 12:45](https://leetcode.com/problems/subtree-of-another-tree/submissions/2124133091) |
+| 605 | [Can Place Flowers](0605-can-place-flowers.py) | [2026-10-29 12:32](https://leetcode.com/problems/can-place-flowers/submissions/2184880237) |
 | 621 | [Task Scheduler](0621-task-scheduler.py) | [2026-09-01 15:04](https://leetcode.com/problems/task-scheduler/submissions/2127673871) |
 | 636 | [Exclusive Time of Functions](0636-exclusive-time-of-functions.py) | [2026-09-21 18:53](https://leetcode.com/problems/exclusive-time-of-functions/submissions/2149147574) |
 | 647 | [Palindromic Substrings](0647-palindromic-substrings.py) | [2026-09-06 17:04](https://leetcode.com/problems/palindromic-substrings/submissions/2133292742) |

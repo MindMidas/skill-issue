@@ -119,6 +119,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 435 | [Non-overlapping Intervals](0435-non-overlapping-intervals.py) | [2026-09-02 11:30](https://leetcode.com/problems/non-overlapping-intervals/submissions/2128609836) |
 | 460 | [LFU Cache](0460-lfu-cache.py) | [2026-10-27 15:05](https://leetcode.com/problems/lfu-cache/submissions/2183387787) |
 | 494 | [Target Sum](0494-target-sum.py) | [2026-09-07 13:05](https://leetcode.com/problems/target-sum/submissions/2134179839) |
+| 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree.py) | [2026-08-28 21:39](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2123368930) |
 | 567 | [Permutation in String](0567-permutation-in-string.py) | [2026-08-24 15:26](https://leetcode.com/problems/permutation-in-string/submissions/2118903113) |
 | 572 | [Subtree of Another Tree](0572-subtree-of-another-tree.py) | [2026-08-29 12:45](https://leetcode.com/problems/subtree-of-another-tree/submissions/2124133091) |

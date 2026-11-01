@@ -138,6 +138,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 716 | [Max Stack](0716-max-stack.py) | [2026-10-29 14:58](https://leetcode.com/problems/max-stack/submissions/2185012676) |
 | 735 | [Asteroid Collision](0735-asteroid-collision.py) | [2026-10-23 13:50](https://leetcode.com/problems/asteroid-collision/submissions/2179897572) |
 | 739 | [Daily Temperatures](0739-daily-temperatures.py) | [2026-08-16 19:50](https://leetcode.com/problems/daily-temperatures/submissions/2109529459) |
+| 740 | [Delete and Earn](0740-delete-and-earn.py) | [2026-11-01 16:40](https://leetcode.com/problems/delete-and-earn/submissions/2187316599/) |
 | 743 | [Network Delay Time](0743-network-delay-time.py) | [2026-09-05 15:26](https://leetcode.com/problems/network-delay-time/submissions/2132106135) |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs.py) | [2026-09-06 15:01](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2133220952) |
 | 763 | [Partition Labels](0763-partition-labels.py) | [2026-09-03 15:40](https://leetcode.com/problems/partition-labels/submissions/2130050450) |

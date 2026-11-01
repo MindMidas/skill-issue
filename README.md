@@ -162,6 +162,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1899 | [Merge Triplets to Form Target Triplet](1899-merge-triplets-to-form-target-triplet.py) | [2026-09-03 14:58](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/submissions/2130016479) |
 | 2043 | [Simple Bank System](2043-simple-bank-system.py) | [2026-09-20 13:55](https://leetcode.com/problems/simple-bank-system/submissions/2147967057) |
 | 2065 | [Maximum Path Quality of a Graph](2065-maximum-path-quality-of-a-graph.py) | [2026-10-24 13:39](https://leetcode.com/problems/maximum-path-quality-of-a-graph/submissions/2180736683) |
+| 2074 | [Reverse Nodes in Even Length Groups](2074-reverse-nodes-in-even-length-groups.py) | [2026-11-01 11:51](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/submissions/2187150067/) |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum.py) | [2026-10-23 15:00](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/submissions/2179954773) |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](2357-make-array-zero-by-subtracting-equal-amounts.py) | [2026-08-23 14:23](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/submissions/2117708314) |
 | 2697 | [Lexicographically Smallest Palindrome](2697-lexicographically-smallest-palindrome.py) | [2026-09-21 19:30](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/2149157566) |

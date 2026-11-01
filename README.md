@@ -131,6 +131,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 678 | [Valid Parenthesis String](0678-valid-parenthesis-string.py) | [2026-09-03 16:10](https://leetcode.com/problems/valid-parenthesis-string/submissions/2130069794) |
 | 684 | [Redundant Connection](0684-redundant-connection.py) | [2026-09-05 13:42](https://leetcode.com/problems/redundant-connection/submissions/2132005168) |
 | 695 | [Max Area of Island](0695-max-area-of-island.py) | [2026-09-03 17:12](https://leetcode.com/problems/max-area-of-island/submissions/2130101085) |
+| 696 | [Count Binary Substrings](0696-count-binary-substrings.py) | [2026-11-01 12:49](https://leetcode.com/problems/count-binary-substrings/submissions/2187198565/) |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream.py) | [2026-09-01 12:45](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2127485577) |
 | 704 | [Binary Search](0704-binary-search.py) | [2026-08-26 14:09](https://leetcode.com/problems/binary-search/submissions/2121154639) |
 | 716 | [Max Stack](0716-max-stack.py) | [2026-10-29 14:58](https://leetcode.com/problems/max-stack/submissions/2185012676) |

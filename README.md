@@ -17,6 +17,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 9 | [Palindrome Number](0009-palindrome-number.py) | [2026-09-27 18:23](https://leetcode.com/problems/palindrome-number/submissions/2155396428) |
 | 11 | [Container With Most Water](0011-container-with-most-water.py) | [2026-08-23 20:41](https://leetcode.com/problems/container-with-most-water/submissions/2117888556) |
 | 12 | [Integer to Roman](0012-integer-to-roman.py) | [2026-09-21 14:38](https://leetcode.com/problems/integer-to-roman/submissions/2149018154) |
+| 13 | [Roman to Integer](0013-roman-to-integer.py) | [2026-11-02 18:41](https://leetcode.com/problems/roman-to-integer/submissions/2188149251/) |
 | 14 | [Longest Common Prefix](0014-longest-common-prefix.py) | [2026-09-15 15:29](https://leetcode.com/problems/longest-common-prefix/submissions/2143017760) |
 | 15 | [3Sum](0015-3sum.py) | [2026-08-23 19:39](https://leetcode.com/problems/3sum/submissions/2117871196) |
 | 16 | [3Sum Closest](0016-3sum-closest.py) | [2026-09-15 15:48](https://leetcode.com/problems/3sum-closest/submissions/2143029791) |

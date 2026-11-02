@@ -173,6 +173,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](2357-make-array-zero-by-subtracting-equal-amounts.py) | [2026-08-23 14:23](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/submissions/2117708314) |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](2414-length-of-the-longest-alphabetical-continuous-substring.py) | [2026-11-01 12:29](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/submissions/2187181826/) |
 | 2697 | [Lexicographically Smallest Palindrome](2697-lexicographically-smallest-palindrome.py) | [2026-09-21 19:30](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/2149157566) |
+| 3820 | [Pythagorean Distance Nodes in a Tree](3820-pythagorean-distance-nodes-in-a-tree.py) | [2026-11-02 14:00](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/submissions/2188049749/) |
 
 ## HackerRank
 

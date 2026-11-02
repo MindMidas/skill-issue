@@ -162,6 +162,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree.py) | [2026-08-29 15:13](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2124283950) |
 | 1584 | [Min Cost to Connect All Points](1584-min-cost-to-connect-all-points.py) | [2026-09-05 21:21](https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/2132234686) |
 | 1631 | [Path With Minimum Effort](1631-path-with-minimum-effort.py) | [2026-10-30 12:56](https://leetcode.com/problems/path-with-minimum-effort/submissions/2185663620/) |
+| 1648 | [Sell Diminishing-Valued Colored Balls](1648-sell-diminishing-valued-colored-balls.py) | [2026-11-02 12:27](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/2187970400/) |
 | 1823 | [Find the Winner of the Circular Game](1823-find-the-winner-of-the-circular-game.py) | [2026-10-30 13:16](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2185680041/) |
 | 1851 | [Minimum Interval to Include Each Query](1851-minimum-interval-to-include-each-query.py) | [2026-09-02 12:06](https://leetcode.com/problems/minimum-interval-to-include-each-query/submissions/2128653002) |
 | 1899 | [Merge Triplets to Form Target Triplet](1899-merge-triplets-to-form-target-triplet.py) | [2026-09-03 14:58](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/submissions/2130016479) |

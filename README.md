@@ -126,6 +126,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree.py) | [2026-08-28 21:39](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2123368930) |
 | 545 | [Boundary of Binary Tree](0545-boundary-of-binary-tree.py) | [2026-10-29 12:01](https://leetcode.com/problems/boundary-of-binary-tree/submissions/2184854171) |
+| 560 | [Subarray Sum Equals K](0560-subarray-sum-equals-k.py) | [2026-11-03 12:25](https://leetcode.com/problems/subarray-sum-equals-k/submissions/2188803858/) |
 | 567 | [Permutation in String](0567-permutation-in-string.py) | [2026-08-24 15:26](https://leetcode.com/problems/permutation-in-string/submissions/2118903113) |
 | 572 | [Subtree of Another Tree](0572-subtree-of-another-tree.py) | [2026-08-29 12:45](https://leetcode.com/problems/subtree-of-another-tree/submissions/2124133091) |
 | 605 | [Can Place Flowers](0605-can-place-flowers.py) | [2026-10-29 12:32](https://leetcode.com/problems/can-place-flowers/submissions/2184880237) |

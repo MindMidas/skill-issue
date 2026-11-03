@@ -118,6 +118,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 347 | [Top K Frequent Elements](0347-top-k-frequent-elements.py) | [2026-08-11 16:37](https://leetcode.com/problems/top-k-frequent-elements/submissions/2103424602) |
 | 355 | [Design Twitter](0355-design-twitter.py) | [2026-09-01 15:36](https://leetcode.com/problems/design-twitter/submissions/2127699368) |
 | 394 | [Decode String](0394-decode-string.py) | [2026-10-25 12:55](https://leetcode.com/problems/decode-string/submissions/2181573318) |
+| 402 | [Remove K Digits](0402-remove-k-digits.py) | [2026-11-03 17:39](https://leetcode.com/problems/remove-k-digits/submissions/2188962482/) |
 | 412 | [Fizz Buzz](0412-fizz-buzz.py) | [2026-09-20 16:32](https://leetcode.com/problems/fizz-buzz/submissions/2148076765) |
 | 417 | [Pacific Atlantic Water Flow](0417-pacific-atlantic-water-flow.py) | [2026-09-04 13:49](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2130997355) |
 | 424 | [Longest Repeating Character Replacement](0424-longest-repeating-character-replacement.py) | [2026-08-24 14:22](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2118840071) |

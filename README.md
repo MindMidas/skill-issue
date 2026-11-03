@@ -102,6 +102,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 226 | [Invert Binary Tree](0226-invert-binary-tree.py) | [2026-08-28 20:22](https://leetcode.com/problems/invert-binary-tree/submissions/2123351051) |
 | 230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst.py) | [2026-08-30 11:58](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2125213987) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](0235-lowest-common-ancestor-of-a-binary-search-tree.py) | [2026-08-29 13:17](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2124167883) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree.py) | [2026-11-03 11:53](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2188774696/) |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self.py) | [2026-08-11 17:38](https://leetcode.com/problems/product-of-array-except-self/submissions/2103453594) |
 | 239 | [Sliding Window Maximum](0239-sliding-window-maximum.py) | [2026-08-26 12:23](https://leetcode.com/problems/sliding-window-maximum/submissions/2121020513) |
 | 242 | [Valid Anagram](0242-valid-anagram.py) | [2026-08-11 15:36](https://leetcode.com/problems/valid-anagram/submissions/2103383476) |

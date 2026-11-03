@@ -144,6 +144,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 743 | [Network Delay Time](0743-network-delay-time.py) | [2026-09-05 15:26](https://leetcode.com/problems/network-delay-time/submissions/2132106135) |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs.py) | [2026-09-06 15:01](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2133220952) |
 | 763 | [Partition Labels](0763-partition-labels.py) | [2026-09-03 15:40](https://leetcode.com/problems/partition-labels/submissions/2130050450) |
+| 767 | [Reorganize String](0767-reorganize-string.py) | [2026-11-03 11:25](https://leetcode.com/problems/reorganize-string/submissions/2188749708/) |
 | 778 | [Swim in Rising Water](0778-swim-in-rising-water.py) | [2026-09-06 13:19](https://leetcode.com/problems/swim-in-rising-water/submissions/2133112430) |
 | 787 | [Cheapest Flights Within K Stops](0787-cheapest-flights-within-k-stops.py) | [2026-09-06 14:23](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/2133186218) |
 | 846 | [Hand of Straights](0846-hand-of-straights.py) | [2026-09-03 14:29](https://leetcode.com/problems/hand-of-straights/submissions/2129988458) |

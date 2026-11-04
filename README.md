@@ -47,6 +47,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 55 | [Jump Game](0055-jump-game.py) | [2026-09-02 13:17](https://leetcode.com/problems/jump-game/submissions/2128749634) |
 | 56 | [Merge Intervals](0056-merge-intervals.py) | [2026-09-02 10:54](https://leetcode.com/problems/merge-intervals/submissions/2128568528) |
 | 57 | [Insert Interval](0057-insert-interval.py) | [2026-09-01 20:50](https://leetcode.com/problems/insert-interval/submissions/2127824112) |
+| 58 | [Length of Last Word](0058-length-of-last-word.py) | [2026-11-04 11:53](https://leetcode.com/problems/length-of-last-word/submissions/2189505740/) |
 | 62 | [Unique Paths](0062-unique-paths.py) | [2026-09-07 12:31](https://leetcode.com/problems/unique-paths/submissions/2134132946) |
 | 68 | [Text Justification](0068-text-justification.py) | [2026-09-20 14:52](https://leetcode.com/problems/text-justification/submissions/2148019219) |
 | 70 | [Climbing Stairs](0070-climbing-stairs.py) | [2026-09-06 14:47](https://leetcode.com/problems/climbing-stairs/submissions/2133209434) |

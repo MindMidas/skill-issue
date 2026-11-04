@@ -77,6 +77,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 131 | [Palindrome Partitioning](0131-palindrome-partitioning.py) | [2026-08-31 16:21](https://leetcode.com/problems/palindrome-partitioning/submissions/2126575116) |
 | 133 | [Clone Graph](0133-clone-graph.py) | [2026-09-03 22:52](https://leetcode.com/problems/clone-graph/submissions/2130211344) |
 | 134 | [Gas Station](0134-gas-station.py) | [2026-09-03 11:49](https://leetcode.com/problems/gas-station/submissions/2129787955) |
+| 136 | [Single Number](0136-single-number.py) | [2026-11-04 16:07](https://leetcode.com/problems/single-number/submissions/2189659529/) |
 | 138 | [Copy List with Random Pointer](0138-copy-list-with-random-pointer.py) | [2026-08-27 18:18](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/2122390328) |
 | 139 | [Word Break](0139-word-break.py) | [2026-10-26 13:44](https://leetcode.com/problems/word-break/submissions/2182475971) |
 | 141 | [Linked List Cycle](0141-linked-list-cycle.py) | [2026-08-27 16:33](https://leetcode.com/problems/linked-list-cycle/submissions/2122349548) |

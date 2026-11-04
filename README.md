@@ -84,6 +84,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 143 | [Reorder List](0143-reorder-list.py) | [2026-08-27 17:29](https://leetcode.com/problems/reorder-list/submissions/2122373637) |
 | 146 | [LRU Cache](0146-lru-cache.py) | [2026-09-08 13:42](https://leetcode.com/problems/lru-cache/submissions/2135463558) |
 | 150 | [Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation.py) | [2026-08-12 13:52](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2104580217) |
+| 152 | [Maximum Product Subarray](0152-maximum-product-subarray.py) | [2026-11-04 13:51](https://leetcode.com/problems/maximum-product-subarray/submissions/2189600567/) |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array.py) | [2026-08-26 20:00](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2121348480) |
 | 155 | [Min Stack](0155-min-stack.py) | [2026-08-12 13:34](https://leetcode.com/problems/min-stack/submissions/2104551945) |
 | 189 | [Rotate Array](0189-rotate-array.py) | [2026-10-26 14:22](https://leetcode.com/problems/rotate-array/submissions/2182514280) |

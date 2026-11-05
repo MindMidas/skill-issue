@@ -80,6 +80,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 136 | [Single Number](0136-single-number.py) | [2026-11-04 16:07](https://leetcode.com/problems/single-number/submissions/2189659529/) |
 | 138 | [Copy List with Random Pointer](0138-copy-list-with-random-pointer.py) | [2026-08-27 18:18](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/2122390328) |
 | 139 | [Word Break](0139-word-break.py) | [2026-10-26 13:44](https://leetcode.com/problems/word-break/submissions/2182475971) |
+| 140 | [Word Break II](0140-word-break-ii.py) | [2026-11-05 14:47](https://leetcode.com/problems/word-break-ii/submissions/2190330879/) |
 | 141 | [Linked List Cycle](0141-linked-list-cycle.py) | [2026-08-27 16:33](https://leetcode.com/problems/linked-list-cycle/submissions/2122349548) |
 | 142 | [Linked List Cycle II](0142-linked-list-cycle-ii.py) | [2026-11-01 12:56](https://leetcode.com/problems/linked-list-cycle-ii/submissions/2187205126/) |
 | 143 | [Reorder List](0143-reorder-list.py) | [2026-08-27 17:29](https://leetcode.com/problems/reorder-list/submissions/2122373637) |

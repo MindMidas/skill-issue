@@ -175,6 +175,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1146 | [Snapshot Array](1146-snapshot-array.py) | [2026-10-29 16:58](https://leetcode.com/problems/snapshot-array/submissions/2185068444/) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](1290-convert-binary-number-in-a-linked-list-to-integer.py) | [2026-10-24 14:26](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/2180779062) |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree.py) | [2026-08-29 15:13](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2124283950) |
+| 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number.py) | [2026-11-05 15:27](https://leetcode.com/problems/kth-missing-positive-number/submissions/2190345018/) |
 | 1584 | [Min Cost to Connect All Points](1584-min-cost-to-connect-all-points.py) | [2026-09-05 21:21](https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/2132234686) |
 | 1631 | [Path With Minimum Effort](1631-path-with-minimum-effort.py) | [2026-10-30 12:56](https://leetcode.com/problems/path-with-minimum-effort/submissions/2185663620/) |
 | 1648 | [Sell Diminishing-Valued Colored Balls](1648-sell-diminishing-valued-colored-balls.py) | [2026-11-02 12:27](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/2187970400/) |

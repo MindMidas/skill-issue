@@ -162,6 +162,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 787 | [Cheapest Flights Within K Stops](0787-cheapest-flights-within-k-stops.py) | [2026-09-06 14:23](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/2133186218) |
 | 846 | [Hand of Straights](0846-hand-of-straights.py) | [2026-09-03 14:29](https://leetcode.com/problems/hand-of-straights/submissions/2129988458) |
 | 853 | [Car Fleet](0853-car-fleet.py) | [2026-08-23 15:42](https://leetcode.com/problems/car-fleet/submissions/2117776202) |
+| 863 | [All Nodes Distance K in Binary Tree](0863-all-nodes-distance-k-in-binary-tree.py) | [2026-11-06 14:01](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/2190916716/) |
 | 875 | [Koko Eating Bananas](0875-koko-eating-bananas.py) | [2026-08-26 15:00](https://leetcode.com/problems/koko-eating-bananas/submissions/2121211935) |
 | 876 | [Middle of the Linked List](0876-middle-of-the-linked-list.py) | [2026-11-01 12:55](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2187203864/) |
 | 895 | [Maximum Frequency Stack](0895-maximum-frequency-stack.py) | [2026-10-25 13:33](https://leetcode.com/problems/maximum-frequency-stack/submissions/2181606698) |

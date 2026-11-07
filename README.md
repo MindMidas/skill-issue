@@ -121,6 +121,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 297 | [Serialize and Deserialize Binary Tree](0297-serialize-and-deserialize-binary-tree.py) | [2026-08-30 14:38](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/2125391039) |
 | 303 | [Range Sum Query - Immutable](0303-range-sum-query-immutable.py) | [2026-11-04 12:53](https://leetcode.com/problems/range-sum-query-immutable/submissions/2189557354/) |
 | 316 | [Remove Duplicate Letters](0316-remove-duplicate-letters.py) | [2026-11-04 12:25](https://leetcode.com/problems/remove-duplicate-letters/submissions/2189533362/) |
+| 322 | [Coin Change](0322-coin-change.py) | [2026-11-07 18:44](https://leetcode.com/problems/coin-change/submissions/2191614005/) |
 | 324 | [Wiggle Sort II](0324-wiggle-sort-ii.py) | [2026-11-02 10:52](https://leetcode.com/problems/wiggle-sort-ii/submissions/2187883729/) |
 | 329 | [Longest Increasing Path in a Matrix](0329-longest-increasing-path-in-a-matrix.py) | [2026-10-25 11:57](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/2181525492) |
 | 332 | [Reconstruct Itinerary](0332-reconstruct-itinerary.py) | [2026-09-05 16:04](https://leetcode.com/problems/reconstruct-itinerary/submissions/2132130679) |

@@ -133,6 +133,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 417 | [Pacific Atlantic Water Flow](0417-pacific-atlantic-water-flow.py) | [2026-09-04 13:49](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2130997355) |
 | 424 | [Longest Repeating Character Replacement](0424-longest-repeating-character-replacement.py) | [2026-08-24 14:22](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2118840071) |
 | 435 | [Non-overlapping Intervals](0435-non-overlapping-intervals.py) | [2026-09-02 11:30](https://leetcode.com/problems/non-overlapping-intervals/submissions/2128609836) |
+| 456 | [132 Pattern](0456-132-pattern.py) | [2026-11-07 11:52](https://leetcode.com/problems/132-pattern/submissions/2191450666) |
 | 460 | [LFU Cache](0460-lfu-cache.py) | [2026-10-27 15:05](https://leetcode.com/problems/lfu-cache/submissions/2183387787) |
 | 494 | [Target Sum](0494-target-sum.py) | [2026-09-07 13:05](https://leetcode.com/problems/target-sum/submissions/2134179839) |
 | 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |

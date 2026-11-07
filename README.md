@@ -180,6 +180,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1014 | [Best Sightseeing Pair](1014-best-sightseeing-pair.py) | [2026-10-25 15:32](https://leetcode.com/problems/best-sightseeing-pair/submissions/2181697739) |
 | 1046 | [Last Stone Weight](1046-last-stone-weight.py) | [2026-09-01 13:40](https://leetcode.com/problems/last-stone-weight/submissions/2127568410) |
 | 1146 | [Snapshot Array](1146-snapshot-array.py) | [2026-10-29 16:58](https://leetcode.com/problems/snapshot-array/submissions/2185068444/) |
+| 1152 | [Analyze User Website Visit Pattern](1152-analyze-user-website-visit-pattern.py) | [2026-11-07 14:37](https://leetcode.com/problems/analyze-user-website-visit-pattern/submissions/2191548215/) |
 | 1254 | [Number of Closed Islands](1254-number-of-closed-islands.py) | [2026-11-06 12:42](https://leetcode.com/problems/number-of-closed-islands/submissions/2190866583/) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](1290-convert-binary-number-in-a-linked-list-to-integer.py) | [2026-10-24 14:26](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/2180779062) |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree.py) | [2026-08-29 15:13](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2124283950) |

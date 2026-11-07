@@ -197,6 +197,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2938 | [Separate Black and White Balls](2938-separate-black-and-white-balls.py) | [2026-11-04 11:42](https://leetcode.com/problems/separate-black-and-white-balls/submissions/2189496583/) |
 | 3413 | [Maximum Coins From K Consecutive Bags](3413-maximum-coins-from-k-consecutive-bags.py) | [2026-11-03 10:58](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/submissions/2188726520/) |
 | 3820 | [Pythagorean Distance Nodes in a Tree](3820-pythagorean-distance-nodes-in-a-tree.py) | [2026-11-02 14:00](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/submissions/2188049749/) |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path.py) | [2026-11-06 19:45](https://leetcode.com/problems/create-grid-with-exactly-one-path/submissions/2191005883/) |
 
 ## HackerRank
 

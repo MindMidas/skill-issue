@@ -129,6 +129,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 347 | [Top K Frequent Elements](0347-top-k-frequent-elements.py) | [2026-08-11 16:37](https://leetcode.com/problems/top-k-frequent-elements/submissions/2103424602) |
 | 349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays.py) | [2026-11-05 15:01](https://leetcode.com/problems/intersection-of-two-arrays/submissions/2190336232/) |
 | 355 | [Design Twitter](0355-design-twitter.py) | [2026-09-01 15:36](https://leetcode.com/problems/design-twitter/submissions/2127699368) |
+| 380 | [Insert Delete GetRandom O(1)](0380-insert-delete-getrandom-o1.py) | [2026-11-07 18:15](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/2191608391/) |
 | 394 | [Decode String](0394-decode-string.py) | [2026-10-25 12:55](https://leetcode.com/problems/decode-string/submissions/2181573318) |
 | 402 | [Remove K Digits](0402-remove-k-digits.py) | [2026-11-03 17:39](https://leetcode.com/problems/remove-k-digits/submissions/2188962482/) |
 | 412 | [Fizz Buzz](0412-fizz-buzz.py) | [2026-09-20 16:32](https://leetcode.com/problems/fizz-buzz/submissions/2148076765) |

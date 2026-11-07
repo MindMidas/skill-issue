@@ -171,6 +171,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 875 | [Koko Eating Bananas](0875-koko-eating-bananas.py) | [2026-08-26 15:00](https://leetcode.com/problems/koko-eating-bananas/submissions/2121211935) |
 | 876 | [Middle of the Linked List](0876-middle-of-the-linked-list.py) | [2026-11-01 12:55](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2187203864/) |
 | 895 | [Maximum Frequency Stack](0895-maximum-frequency-stack.py) | [2026-10-25 13:33](https://leetcode.com/problems/maximum-frequency-stack/submissions/2181606698) |
+| 905 | [Sort Array By Parity](0905-sort-array-by-parity.py) | [2026-11-07 13:30](https://leetcode.com/problems/sort-array-by-parity/submissions/2191517115/) |
 | 968 | [Binary Tree Cameras](0968-binary-tree-cameras.py) | [2026-10-29 15:26](https://leetcode.com/problems/binary-tree-cameras/submissions/2185028495) |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin.py) | [2026-09-01 14:13](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2127615500) |
 | 981 | [Time Based Key-Value Store](0981-time-based-key-value-store.py) | [2026-08-26 21:59](https://leetcode.com/problems/time-based-key-value-store/submissions/2121386085) |

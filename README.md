@@ -145,6 +145,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 605 | [Can Place Flowers](0605-can-place-flowers.py) | [2026-10-29 12:32](https://leetcode.com/problems/can-place-flowers/submissions/2184880237) |
 | 621 | [Task Scheduler](0621-task-scheduler.py) | [2026-09-01 15:04](https://leetcode.com/problems/task-scheduler/submissions/2127673871) |
 | 636 | [Exclusive Time of Functions](0636-exclusive-time-of-functions.py) | [2026-09-21 18:53](https://leetcode.com/problems/exclusive-time-of-functions/submissions/2149147574) |
+| 642 | [Design Search Autocomplete System](0642-design-search-autocomplete-system.py) | [2026-11-07 12:20](https://leetcode.com/problems/design-search-autocomplete-system/submissions/2191469378) |
 | 647 | [Palindromic Substrings](0647-palindromic-substrings.py) | [2026-09-06 17:04](https://leetcode.com/problems/palindromic-substrings/submissions/2133292742) |
 | 678 | [Valid Parenthesis String](0678-valid-parenthesis-string.py) | [2026-09-03 16:10](https://leetcode.com/problems/valid-parenthesis-string/submissions/2130069794) |
 | 684 | [Redundant Connection](0684-redundant-connection.py) | [2026-09-05 13:42](https://leetcode.com/problems/redundant-connection/submissions/2132005168) |

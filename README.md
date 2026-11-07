@@ -32,6 +32,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array.py) | [2026-09-15 16:12](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2143044214) |
 | 27 | [Remove Element](0027-remove-element.py) | [2026-09-15 16:18](https://leetcode.com/problems/remove-element/submissions/2143047022) |
 | 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array.py) | [2026-08-26 20:30](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2121356853) |
+| 35 | [Search Insert Position](0035-search-insert-position.py) | [2026-11-07 13:16](https://leetcode.com/problems/search-insert-position/submissions/2191507668) |
 | 36 | [Valid Sudoku](0036-valid-sudoku.py) | [2026-08-11 18:26](https://leetcode.com/problems/valid-sudoku/submissions/2103470772) |
 | 39 | [Combination Sum](0039-combination-sum.py) | [2026-08-31 13:03](https://leetcode.com/problems/combination-sum/submissions/2126377560) |
 | 40 | [Combination Sum II](0040-combination-sum-ii.py) | [2026-08-31 13:23](https://leetcode.com/problems/combination-sum-ii/submissions/2126404298) |

@@ -106,6 +106,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 217 | [Contains Duplicate](0217-contains-duplicate.py) | [2026-08-11 15:13](https://leetcode.com/problems/contains-duplicate/submissions/2103362951) |
 | 219 | [Contains Duplicate II](0219-contains-duplicate-ii.py) | [2026-11-03 18:01](https://leetcode.com/problems/contains-duplicate-ii/submissions/2188967777/) |
 | 226 | [Invert Binary Tree](0226-invert-binary-tree.py) | [2026-08-28 20:22](https://leetcode.com/problems/invert-binary-tree/submissions/2123351051) |
+| 227 | [Basic Calculator II](0227-basic-calculator-ii.py) | [2026-11-07 12:59](https://leetcode.com/problems/basic-calculator-ii/submissions/2191495990) |
 | 230 | [Kth Smallest Element in a BST](0230-kth-smallest-element-in-a-bst.py) | [2026-08-30 11:58](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2125213987) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](0235-lowest-common-ancestor-of-a-binary-search-tree.py) | [2026-08-29 13:17](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/2124167883) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](0236-lowest-common-ancestor-of-a-binary-tree.py) | [2026-11-03 11:53](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2188774696/) |

@@ -155,6 +155,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 642 | [Design Search Autocomplete System](0642-design-search-autocomplete-system.py) | [2026-11-07 12:20](https://leetcode.com/problems/design-search-autocomplete-system/submissions/2191469378) |
 | 647 | [Palindromic Substrings](0647-palindromic-substrings.py) | [2026-09-06 17:04](https://leetcode.com/problems/palindromic-substrings/submissions/2133292742) |
 | 678 | [Valid Parenthesis String](0678-valid-parenthesis-string.py) | [2026-09-03 16:10](https://leetcode.com/problems/valid-parenthesis-string/submissions/2130069794) |
+| 680 | [Valid Palindrome II](0680-valid-palindrome-ii.py) | [2026-11-08 17:46](https://leetcode.com/problems/valid-palindrome-ii/submissions/2192157522/) |
 | 684 | [Redundant Connection](0684-redundant-connection.py) | [2026-09-05 13:42](https://leetcode.com/problems/redundant-connection/submissions/2132005168) |
 | 695 | [Max Area of Island](0695-max-area-of-island.py) | [2026-09-03 17:12](https://leetcode.com/problems/max-area-of-island/submissions/2130101085) |
 | 696 | [Count Binary Substrings](0696-count-binary-substrings.py) | [2026-11-01 12:49](https://leetcode.com/problems/count-binary-substrings/submissions/2187198565/) |

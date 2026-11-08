@@ -140,6 +140,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 435 | [Non-overlapping Intervals](0435-non-overlapping-intervals.py) | [2026-09-02 11:30](https://leetcode.com/problems/non-overlapping-intervals/submissions/2128609836) |
 | 456 | [132 Pattern](0456-132-pattern.py) | [2026-11-07 11:52](https://leetcode.com/problems/132-pattern/submissions/2191450666) |
 | 460 | [LFU Cache](0460-lfu-cache.py) | [2026-10-27 15:05](https://leetcode.com/problems/lfu-cache/submissions/2183387787) |
+| 462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii.py) | [2026-11-08 16:39](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2192141806/) |
 | 494 | [Target Sum](0494-target-sum.py) | [2026-09-07 13:05](https://leetcode.com/problems/target-sum/submissions/2134179839) |
 | 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree.py) | [2026-08-28 21:39](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2123368930) |

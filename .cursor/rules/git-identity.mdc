@@ -1,0 +1,6 @@
+---
+description: Always use the MindMidas GitHub email for repository commits
+alwaysApply: true
+---
+
+Follow the Git identity instructions in `AGENTS.md`. Always use `127989384+MindMidas@users.noreply.github.com` for both author and committer email, including rewritten commits.

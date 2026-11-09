@@ -92,6 +92,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 152 | [Maximum Product Subarray](0152-maximum-product-subarray.py) | [2026-11-04 13:51](https://leetcode.com/problems/maximum-product-subarray/submissions/2189600567/) |
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array.py) | [2026-08-26 20:00](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2121348480) |
 | 155 | [Min Stack](0155-min-stack.py) | [2026-08-12 13:34](https://leetcode.com/problems/min-stack/submissions/2104551945) |
+| 161 | [One Edit Distance](0161-one-edit-distance.py) | [2026-11-09 17:57](https://leetcode.com/problems/one-edit-distance/submissions/2192794180/) |
 | 169 | [Majority Element](0169-majority-element.py) | [2026-11-08 17:32](https://leetcode.com/problems/majority-element/submissions/2192154601/) |
 | 189 | [Rotate Array](0189-rotate-array.py) | [2026-10-26 14:22](https://leetcode.com/problems/rotate-array/submissions/2182514280) |
 | 198 | [House Robber](0198-house-robber.py) | [2026-09-06 16:07](https://leetcode.com/problems/house-robber/submissions/2133264380) |

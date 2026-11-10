@@ -196,6 +196,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree.py) | [2026-08-29 15:13](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2124283950) |
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number.py) | [2026-11-05 15:27](https://leetcode.com/problems/kth-missing-positive-number/submissions/2190345018/) |
 | 1584 | [Min Cost to Connect All Points](1584-min-cost-to-connect-all-points.py) | [2026-09-05 21:21](https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/2132234686) |
+| 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py) | [2026-11-10 17:25](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/submissions/2193486951/) |
 | 1631 | [Path With Minimum Effort](1631-path-with-minimum-effort.py) | [2026-10-30 12:56](https://leetcode.com/problems/path-with-minimum-effort/submissions/2185663620/) |
 | 1648 | [Sell Diminishing-Valued Colored Balls](1648-sell-diminishing-valued-colored-balls.py) | [2026-11-02 12:27](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/submissions/2187970400/) |
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero.py) | [2026-11-08 17:11](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2192149593/) |

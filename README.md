@@ -205,6 +205,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2065 | [Maximum Path Quality of a Graph](2065-maximum-path-quality-of-a-graph.py) | [2026-10-24 13:39](https://leetcode.com/problems/maximum-path-quality-of-a-graph/submissions/2180736683) |
 | 2074 | [Reverse Nodes in Even Length Groups](2074-reverse-nodes-in-even-length-groups.py) | [2026-11-01 11:51](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/submissions/2187150067/) |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum.py) | [2026-10-23 15:00](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/submissions/2179954773) |
+| 2303 | [Calculate Amount Paid in Taxes](2303-calculate-amount-paid-in-taxes.py) | [2026-11-09 19:41](https://leetcode.com/problems/calculate-amount-paid-in-taxes/submissions/2192818868/) |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](2357-make-array-zero-by-subtracting-equal-amounts.py) | [2026-08-23 14:23](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/submissions/2117708314) |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](2414-length-of-the-longest-alphabetical-continuous-substring.py) | [2026-11-01 12:29](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/submissions/2187181826/) |
 | 2483 | [Minimum Penalty for a Shop](2483-minimum-penalty-for-a-shop.py) | [2026-11-09 14:41](https://leetcode.com/problems/minimum-penalty-for-a-shop/submissions/2192733931/) |

@@ -213,6 +213,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2645 | [Minimum Additions to Make Valid String](2645-minimum-additions-to-make-valid-string.py) | [2026-11-02 14:21](https://leetcode.com/problems/minimum-additions-to-make-valid-string/submissions/2188061905/) |
 | 2697 | [Lexicographically Smallest Palindrome](2697-lexicographically-smallest-palindrome.py) | [2026-09-21 19:30](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/2149157566) |
 | 2712 | [Minimum Cost to Make All Characters Equal](2712-minimum-cost-to-make-all-characters-equal.py) | [2026-11-04 15:00](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/submissions/2189634602/) |
+| 2768 | [Number of Black Blocks](2768-number-of-black-blocks.py) | [2026-11-10 13:41](https://leetcode.com/problems/number-of-black-blocks/submissions/2193407446/) |
 | 2938 | [Separate Black and White Balls](2938-separate-black-and-white-balls.py) | [2026-11-04 11:42](https://leetcode.com/problems/separate-black-and-white-balls/submissions/2189496583/) |
 | 3413 | [Maximum Coins From K Consecutive Bags](3413-maximum-coins-from-k-consecutive-bags.py) | [2026-11-03 10:58](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/submissions/2188726520/) |
 | 3820 | [Pythagorean Distance Nodes in a Tree](3820-pythagorean-distance-nodes-in-a-tree.py) | [2026-11-02 14:00](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/submissions/2188049749/) |

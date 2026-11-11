@@ -152,6 +152,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 567 | [Permutation in String](0567-permutation-in-string.py) | [2026-08-24 15:26](https://leetcode.com/problems/permutation-in-string/submissions/2118903113) |
 | 572 | [Subtree of Another Tree](0572-subtree-of-another-tree.py) | [2026-08-29 12:45](https://leetcode.com/problems/subtree-of-another-tree/submissions/2124133091) |
 | 605 | [Can Place Flowers](0605-can-place-flowers.py) | [2026-10-29 12:32](https://leetcode.com/problems/can-place-flowers/submissions/2184880237) |
+| 609 | [Find Duplicate File in System](0609-find-duplicate-file-in-system.py) | [2026-11-11 12:05](https://leetcode.com/problems/find-duplicate-file-in-system/submissions/2194049430/) |
 | 621 | [Task Scheduler](0621-task-scheduler.py) | [2026-09-01 15:04](https://leetcode.com/problems/task-scheduler/submissions/2127673871) |
 | 636 | [Exclusive Time of Functions](0636-exclusive-time-of-functions.py) | [2026-09-21 18:53](https://leetcode.com/problems/exclusive-time-of-functions/submissions/2149147574) |
 | 642 | [Design Search Autocomplete System](0642-design-search-autocomplete-system.py) | [2026-11-07 12:20](https://leetcode.com/problems/design-search-autocomplete-system/submissions/2191469378) |

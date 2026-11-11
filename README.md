@@ -174,6 +174,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 767 | [Reorganize String](0767-reorganize-string.py) | [2026-11-03 11:25](https://leetcode.com/problems/reorganize-string/submissions/2188749708/) |
 | 778 | [Swim in Rising Water](0778-swim-in-rising-water.py) | [2026-09-06 13:19](https://leetcode.com/problems/swim-in-rising-water/submissions/2133112430) |
 | 787 | [Cheapest Flights Within K Stops](0787-cheapest-flights-within-k-stops.py) | [2026-09-06 14:23](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/2133186218) |
+| 811 | [Subdomain Visit Count](0811-subdomain-visit-count.py) | [2026-11-11 15:18](https://leetcode.com/problems/subdomain-visit-count/submissions/2194162750/) |
 | 846 | [Hand of Straights](0846-hand-of-straights.py) | [2026-09-03 14:29](https://leetcode.com/problems/hand-of-straights/submissions/2129988458) |
 | 853 | [Car Fleet](0853-car-fleet.py) | [2026-08-23 15:42](https://leetcode.com/problems/car-fleet/submissions/2117776202) |
 | 863 | [All Nodes Distance K in Binary Tree](0863-all-nodes-distance-k-in-binary-tree.py) | [2026-11-06 14:01](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/2190916716/) |

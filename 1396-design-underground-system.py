@@ -1,9 +1,9 @@
 # 1396. Design Underground System
 # Problem: https://leetcode.com/problems/design-underground-system/
-# Submitted: 2026-11-11 11:21 EST
+# Submitted: 2026-11-11 11:23 EST
 # Intuition: An average travel time needs only the total duration and number of completed trips for each route.
-# Approach: Record check-ins by customer ID and accumulate duration and count at checkout for each ordered station pair.
-# Complexity: O(1) average time per operation and O(c + r) space for c distinct customers and r routes.
+# Approach: Remove the customer's active check-in at checkout and add the trip duration and count to the route totals.
+# Complexity: O(1) average time per operation and O(c + r) space for c active check-ins and r routes.
 
 class UndergroundSystem:
     # goal: return avg time taken to travel from station A to B
@@ -21,7 +21,7 @@ class UndergroundSystem:
     def checkOut(self, id: int, stationName: str, t: int) -> None:
 
         # get start station and time
-        station_a, time_a = self.start_time[id]
+        station_a, time_a = self.start_time.pop(id)
 
         # add time taken to travel_time
         key = (station_a, stationName)

@@ -206,6 +206,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1823 | [Find the Winner of the Circular Game](1823-find-the-winner-of-the-circular-game.py) | [2026-10-30 13:16](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2185680041/) |
 | 1851 | [Minimum Interval to Include Each Query](1851-minimum-interval-to-include-each-query.py) | [2026-09-02 12:06](https://leetcode.com/problems/minimum-interval-to-include-each-query/submissions/2128653002) |
 | 1899 | [Merge Triplets to Form Target Triplet](1899-merge-triplets-to-form-target-triplet.py) | [2026-09-03 14:58](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/submissions/2130016479) |
+| 2034 | [Stock Price Fluctuation](2034-stock-price-fluctuation.py) | [2026-11-11 14:10](https://leetcode.com/problems/stock-price-fluctuation/submissions/2194133310/) |
 | 2043 | [Simple Bank System](2043-simple-bank-system.py) | [2026-09-20 13:55](https://leetcode.com/problems/simple-bank-system/submissions/2147967057) |
 | 2065 | [Maximum Path Quality of a Graph](2065-maximum-path-quality-of-a-graph.py) | [2026-10-24 13:39](https://leetcode.com/problems/maximum-path-quality-of-a-graph/submissions/2180736683) |
 | 2074 | [Reverse Nodes in Even Length Groups](2074-reverse-nodes-in-even-length-groups.py) | [2026-11-01 11:51](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/submissions/2187150067/) |

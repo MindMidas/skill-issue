@@ -199,6 +199,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1254 | [Number of Closed Islands](1254-number-of-closed-islands.py) | [2026-11-06 12:42](https://leetcode.com/problems/number-of-closed-islands/submissions/2190866583/) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](1290-convert-binary-number-in-a-linked-list-to-integer.py) | [2026-10-24 14:26](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/2180779062) |
 | 1348 | [Tweet Counts Per Frequency](1348-tweet-counts-per-frequency.py) | [2026-11-11 17:25](https://leetcode.com/problems/tweet-counts-per-frequency/submissions/2194201394/) |
+| 1357 | [Apply Discount Every n Orders](1357-apply-discount-every-n-orders.py) | [2026-11-12 14:25](https://leetcode.com/problems/apply-discount-every-n-orders/submissions/2194873843/) |
 | 1381 | [Design a Stack With Increment Operation](1381-design-a-stack-with-increment-operation.py) | [2026-11-12 12:56](https://leetcode.com/problems/design-a-stack-with-increment-operation/submissions/2194820621/) |
 | 1396 | [Design Underground System](1396-design-underground-system.py) | [2026-11-11 11:23](https://leetcode.com/problems/design-underground-system/submissions/2194016776/) |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree.py) | [2026-08-29 15:13](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2124283950) |

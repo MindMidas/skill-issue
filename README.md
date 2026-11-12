@@ -182,6 +182,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 876 | [Middle of the Linked List](0876-middle-of-the-linked-list.py) | [2026-11-01 12:55](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2187203864/) |
 | 895 | [Maximum Frequency Stack](0895-maximum-frequency-stack.py) | [2026-10-25 13:33](https://leetcode.com/problems/maximum-frequency-stack/submissions/2181606698) |
 | 905 | [Sort Array By Parity](0905-sort-array-by-parity.py) | [2026-11-07 13:30](https://leetcode.com/problems/sort-array-by-parity/submissions/2191517115/) |
+| 933 | [Number of Recent Calls](0933-number-of-recent-calls.py) | [2026-11-12 12:34](https://leetcode.com/problems/number-of-recent-calls/submissions/2194804242/) |
 | 937 | [Reorder Data in Log Files](0937-reorder-data-in-log-files.py) | [2026-11-11 14:26](https://leetcode.com/problems/reorder-data-in-log-files/submissions/2194141078/) |
 | 968 | [Binary Tree Cameras](0968-binary-tree-cameras.py) | [2026-10-29 15:26](https://leetcode.com/problems/binary-tree-cameras/submissions/2185028495) |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin.py) | [2026-09-01 14:13](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2127615500) |

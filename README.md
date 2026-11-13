@@ -166,6 +166,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 704 | [Binary Search](0704-binary-search.py) | [2026-08-26 14:09](https://leetcode.com/problems/binary-search/submissions/2121154639) |
 | 716 | [Max Stack](0716-max-stack.py) | [2026-10-29 14:58](https://leetcode.com/problems/max-stack/submissions/2185012676) |
 | 722 | [Remove Comments](0722-remove-comments.py) | [2026-11-12 14:09](https://leetcode.com/problems/remove-comments/submissions/2194866306/) |
+| 729 | [My Calendar I](0729-my-calendar-i.py) | [2026-11-13 13:11](https://leetcode.com/problems/my-calendar-i/submissions/2195487484/) |
 | 735 | [Asteroid Collision](0735-asteroid-collision.py) | [2026-10-23 13:50](https://leetcode.com/problems/asteroid-collision/submissions/2179897572) |
 | 739 | [Daily Temperatures](0739-daily-temperatures.py) | [2026-08-16 19:50](https://leetcode.com/problems/daily-temperatures/submissions/2109529459) |
 | 740 | [Delete and Earn](0740-delete-and-earn.py) | [2026-11-01 16:40](https://leetcode.com/problems/delete-and-earn/submissions/2187316599/) |

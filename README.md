@@ -231,6 +231,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2502 | [Design Memory Allocator](2502-design-memory-allocator.py) | [2026-11-13 11:13](https://leetcode.com/problems/design-memory-allocator/submissions/2195404513/) |
 | 2551 | [Put Marbles in Bags](2551-put-marbles-in-bags.py) | [2026-11-02 19:05](https://leetcode.com/problems/put-marbles-in-bags/submissions/2188155106/) |
 | 2645 | [Minimum Additions to Make Valid String](2645-minimum-additions-to-make-valid-string.py) | [2026-11-02 14:21](https://leetcode.com/problems/minimum-additions-to-make-valid-string/submissions/2188061905/) |
+| 2671 | [Frequency Tracker](2671-frequency-tracker.py) | [2026-11-13 11:40](https://leetcode.com/problems/frequency-tracker/submissions/2195423742/) |
 | 2697 | [Lexicographically Smallest Palindrome](2697-lexicographically-smallest-palindrome.py) | [2026-09-21 19:30](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/2149157566) |
 | 2712 | [Minimum Cost to Make All Characters Equal](2712-minimum-cost-to-make-all-characters-equal.py) | [2026-11-04 15:00](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/submissions/2189634602/) |
 | 2768 | [Number of Black Blocks](2768-number-of-black-blocks.py) | [2026-11-10 13:41](https://leetcode.com/problems/number-of-black-blocks/submissions/2193407446/) |

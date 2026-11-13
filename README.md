@@ -228,6 +228,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](2357-make-array-zero-by-subtracting-equal-amounts.py) | [2026-08-23 14:23](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/submissions/2117708314) |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](2414-length-of-the-longest-alphabetical-continuous-substring.py) | [2026-11-01 12:29](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/submissions/2187181826/) |
 | 2483 | [Minimum Penalty for a Shop](2483-minimum-penalty-for-a-shop.py) | [2026-11-09 14:41](https://leetcode.com/problems/minimum-penalty-for-a-shop/submissions/2192733931/) |
+| 2502 | [Design Memory Allocator](2502-design-memory-allocator.py) | [2026-11-13 11:13](https://leetcode.com/problems/design-memory-allocator/submissions/2195404513/) |
 | 2551 | [Put Marbles in Bags](2551-put-marbles-in-bags.py) | [2026-11-02 19:05](https://leetcode.com/problems/put-marbles-in-bags/submissions/2188155106/) |
 | 2645 | [Minimum Additions to Make Valid String](2645-minimum-additions-to-make-valid-string.py) | [2026-11-02 14:21](https://leetcode.com/problems/minimum-additions-to-make-valid-string/submissions/2188061905/) |
 | 2697 | [Lexicographically Smallest Palindrome](2697-lexicographically-smallest-palindrome.py) | [2026-09-21 19:30](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/2149157566) |

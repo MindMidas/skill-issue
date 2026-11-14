@@ -226,6 +226,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2043 | [Simple Bank System](2043-simple-bank-system.py) | [2026-09-20 13:55](https://leetcode.com/problems/simple-bank-system/submissions/2147967057) |
 | 2065 | [Maximum Path Quality of a Graph](2065-maximum-path-quality-of-a-graph.py) | [2026-10-24 13:39](https://leetcode.com/problems/maximum-path-quality-of-a-graph/submissions/2180736683) |
 | 2074 | [Reverse Nodes in Even Length Groups](2074-reverse-nodes-in-even-length-groups.py) | [2026-11-01 11:51](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/submissions/2187150067/) |
+| 2080 | [Range Frequency Queries](2080-range-frequency-queries.py) | [2026-11-14 14:38](https://leetcode.com/problems/range-frequency-queries/submissions/2196160086/) |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum.py) | [2026-10-23 15:00](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/submissions/2179954773) |
 | 2241 | [Design an ATM Machine](2241-design-an-atm-machine.py) | [2026-11-10 18:27](https://leetcode.com/problems/design-an-atm-machine/submissions/2193502018/) |
 | 2296 | [Design a Text Editor](2296-design-a-text-editor.py) | [2026-11-14 13:45](https://leetcode.com/problems/design-a-text-editor/submissions/2196137062/) |

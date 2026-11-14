@@ -228,6 +228,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 2074 | [Reverse Nodes in Even Length Groups](2074-reverse-nodes-in-even-length-groups.py) | [2026-11-01 11:51](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/submissions/2187150067/) |
 | 2208 | [Minimum Operations to Halve Array Sum](2208-minimum-operations-to-halve-array-sum.py) | [2026-10-23 15:00](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/submissions/2179954773) |
 | 2241 | [Design an ATM Machine](2241-design-an-atm-machine.py) | [2026-11-10 18:27](https://leetcode.com/problems/design-an-atm-machine/submissions/2193502018/) |
+| 2296 | [Design a Text Editor](2296-design-a-text-editor.py) | [2026-11-14 13:45](https://leetcode.com/problems/design-a-text-editor/submissions/2196137062/) |
 | 2303 | [Calculate Amount Paid in Taxes](2303-calculate-amount-paid-in-taxes.py) | [2026-11-09 19:41](https://leetcode.com/problems/calculate-amount-paid-in-taxes/submissions/2192818868/) |
 | 2349 | [Design a Number Container System](2349-design-a-number-container-system.py) | [2026-11-12 11:41](https://leetcode.com/problems/design-a-number-container-system/submissions/2194762792/) |
 | 2353 | [Design a Food Rating System](2353-design-a-food-rating-system.py) | [2026-11-11 14:53](https://leetcode.com/problems/design-a-food-rating-system/submissions/2194152871/) |

@@ -259,4 +259,5 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | Candies | [Python](hackerrank/candies.py) |
 | Hash Tables: Ice Cream Parlor | [Python](hackerrank/hash-tables-ice-cream-parlor.py) |
 | Making Candies | [Python](hackerrank/making-candies.py) |
+| Simple Text Editor | [Python](hackerrank/simple-text-editor.py) |
 | Sorting: Bubble Sort | [Python](hackerrank/sorting-bubble-sort.py) |

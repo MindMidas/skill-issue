@@ -257,6 +257,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | --- | --- |
 | 2D Array - DS | [Python](hackerrank/2d-array-ds.py) |
 | Candies | [Python](hackerrank/candies.py) |
+| collections.Counter() | [Python](hackerrank/collections-counter.py) |
 | Hash Tables: Ice Cream Parlor | [Python](hackerrank/hash-tables-ice-cream-parlor.py) |
 | Lists | [Python](hackerrank/python-lists.py) |
 | Making Candies | [Python](hackerrank/making-candies.py) |

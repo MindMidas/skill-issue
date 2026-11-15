@@ -260,5 +260,6 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | Hash Tables: Ice Cream Parlor | [Python](hackerrank/hash-tables-ice-cream-parlor.py) |
 | Lists | [Python](hackerrank/python-lists.py) |
 | Making Candies | [Python](hackerrank/making-candies.py) |
+| QHEAP1 | [Python](hackerrank/qheap1.py) |
 | Simple Text Editor | [Python](hackerrank/simple-text-editor.py) |
 | Sorting: Bubble Sort | [Python](hackerrank/sorting-bubble-sort.py) |

@@ -218,6 +218,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero.py) | [2026-11-08 17:11](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2192149593/) |
 | 1670 | [Design Front Middle Back Queue](1670-design-front-middle-back-queue.py) | [2026-11-14 12:12](https://leetcode.com/problems/design-front-middle-back-queue/submissions/2196077723/) |
 | 1797 | [Design Authentication Manager](1797-design-authentication-manager.py) | [2026-11-11 12:34](https://leetcode.com/problems/design-authentication-manager/submissions/2194071188/) |
+| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string.py) | [2026-11-15 13:20](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/submissions/2196826154/) |
 | 1823 | [Find the Winner of the Circular Game](1823-find-the-winner-of-the-circular-game.py) | [2026-10-30 13:16](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2185680041/) |
 | 1845 | [Seat Reservation Manager](1845-seat-reservation-manager.py) | [2026-11-12 13:35](https://leetcode.com/problems/seat-reservation-manager/submissions/2194848180/) |
 | 1851 | [Minimum Interval to Include Each Query](1851-minimum-interval-to-include-each-query.py) | [2026-09-02 12:06](https://leetcode.com/problems/minimum-interval-to-include-each-query/submissions/2128653002) |

@@ -95,6 +95,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 161 | [One Edit Distance](0161-one-edit-distance.py) | [2026-11-09 17:57](https://leetcode.com/problems/one-edit-distance/submissions/2192794180/) |
 | 169 | [Majority Element](0169-majority-element.py) | [2026-11-08 17:32](https://leetcode.com/problems/majority-element/submissions/2192154601/) |
 | 189 | [Rotate Array](0189-rotate-array.py) | [2026-10-26 14:22](https://leetcode.com/problems/rotate-array/submissions/2182514280) |
+| 191 | [Number of 1 Bits](0191-number-of-1-bits.py) | [2026-11-16 14:37](https://leetcode.com/problems/number-of-1-bits/submissions/2197566610/) |
 | 198 | [House Robber](0198-house-robber.py) | [2026-09-06 16:07](https://leetcode.com/problems/house-robber/submissions/2133264380) |
 | 199 | [Binary Tree Right Side View](0199-binary-tree-right-side-view.py) | [2026-08-29 14:24](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2124242450) |
 | 200 | [Number of Islands](0200-number-of-islands.py) | [2026-09-03 16:52](https://leetcode.com/problems/number-of-islands/submissions/2130092148) |

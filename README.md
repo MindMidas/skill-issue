@@ -129,6 +129,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 329 | [Longest Increasing Path in a Matrix](0329-longest-increasing-path-in-a-matrix.py) | [2026-10-25 11:57](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/2181525492) |
 | 332 | [Reconstruct Itinerary](0332-reconstruct-itinerary.py) | [2026-09-05 16:04](https://leetcode.com/problems/reconstruct-itinerary/submissions/2132130679) |
 | 334 | [Increasing Triplet Subsequence](0334-increasing-triplet-subsequence.py) | [2026-10-24 14:50](https://leetcode.com/problems/increasing-triplet-subsequence/submissions/2180796974) |
+| 338 | [Counting Bits](0338-counting-bits.py) | [2026-11-16 14:23](https://leetcode.com/problems/counting-bits/submissions/2197560286/) |
 | 344 | [Reverse String](0344-reverse-string.py) | [2026-11-04 12:33](https://leetcode.com/problems/reverse-string/submissions/2189539741/) |
 | 347 | [Top K Frequent Elements](0347-top-k-frequent-elements.py) | [2026-08-11 16:37](https://leetcode.com/problems/top-k-frequent-elements/submissions/2103424602) |
 | 349 | [Intersection of Two Arrays](0349-intersection-of-two-arrays.py) | [2026-11-05 15:01](https://leetcode.com/problems/intersection-of-two-arrays/submissions/2190336232/) |

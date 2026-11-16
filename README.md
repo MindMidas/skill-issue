@@ -93,6 +93,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 153 | [Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array.py) | [2026-08-26 20:00](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2121348480) |
 | 155 | [Min Stack](0155-min-stack.py) | [2026-08-12 13:34](https://leetcode.com/problems/min-stack/submissions/2104551945) |
 | 161 | [One Edit Distance](0161-one-edit-distance.py) | [2026-11-09 17:57](https://leetcode.com/problems/one-edit-distance/submissions/2192794180/) |
+| 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted.py) | [2026-11-16 14:46](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2197570363/) |
 | 169 | [Majority Element](0169-majority-element.py) | [2026-11-08 17:32](https://leetcode.com/problems/majority-element/submissions/2192154601/) |
 | 189 | [Rotate Array](0189-rotate-array.py) | [2026-10-26 14:22](https://leetcode.com/problems/rotate-array/submissions/2182514280) |
 | 191 | [Number of 1 Bits](0191-number-of-1-bits.py) | [2026-11-16 14:37](https://leetcode.com/problems/number-of-1-bits/submissions/2197566610/) |

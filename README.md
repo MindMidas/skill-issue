@@ -28,6 +28,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 21 | [Merge Two Sorted Lists](0021-merge-two-sorted-lists.py) | [2026-08-27 15:48](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2122324477) |
 | 22 | [Generate Parentheses](0022-generate-parentheses.py) | [2026-08-12 14:09](https://leetcode.com/problems/generate-parentheses/submissions/2104605908) |
 | 23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists.py) | [2026-08-28 19:05](https://leetcode.com/problems/merge-k-sorted-lists/submissions/2123333554) |
+| 24 | [Swap Nodes in Pairs](0024-swap-nodes-in-pairs.py) | [2026-11-18 13:08](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/2198885462/) |
 | 25 | [Reverse Nodes in k-Group](0025-reverse-nodes-in-k-group.py) | [2026-08-28 20:03](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2123346531) |
 | 26 | [Remove Duplicates from Sorted Array](0026-remove-duplicates-from-sorted-array.py) | [2026-09-15 16:12](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2143044214) |
 | 27 | [Remove Element](0027-remove-element.py) | [2026-09-15 16:18](https://leetcode.com/problems/remove-element/submissions/2143047022) |

@@ -177,6 +177,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 740 | [Delete and Earn](0740-delete-and-earn.py) | [2026-11-01 16:40](https://leetcode.com/problems/delete-and-earn/submissions/2187316599/) |
 | 743 | [Network Delay Time](0743-network-delay-time.py) | [2026-09-05 15:26](https://leetcode.com/problems/network-delay-time/submissions/2132106135) |
 | 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs.py) | [2026-09-06 15:01](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2133220952) |
+| 752 | [Open the Lock](0752-open-the-lock.py) | [2026-11-18 12:16](https://leetcode.com/problems/open-the-lock/submissions/2198847976/) |
 | 763 | [Partition Labels](0763-partition-labels.py) | [2026-09-03 15:40](https://leetcode.com/problems/partition-labels/submissions/2130050450) |
 | 767 | [Reorganize String](0767-reorganize-string.py) | [2026-11-03 11:25](https://leetcode.com/problems/reorganize-string/submissions/2188749708/) |
 | 778 | [Swim in Rising Water](0778-swim-in-rising-water.py) | [2026-09-06 13:19](https://leetcode.com/problems/swim-in-rising-water/submissions/2133112430) |

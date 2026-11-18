@@ -144,6 +144,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 417 | [Pacific Atlantic Water Flow](0417-pacific-atlantic-water-flow.py) | [2026-09-04 13:49](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2130997355) |
 | 424 | [Longest Repeating Character Replacement](0424-longest-repeating-character-replacement.py) | [2026-08-24 14:22](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2118840071) |
 | 435 | [Non-overlapping Intervals](0435-non-overlapping-intervals.py) | [2026-09-02 11:30](https://leetcode.com/problems/non-overlapping-intervals/submissions/2128609836) |
+| 438 | [Find All Anagrams in a String](0438-find-all-anagrams-in-a-string.py) | [2026-11-18 12:42](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/2198866921/) |
 | 456 | [132 Pattern](0456-132-pattern.py) | [2026-11-07 11:52](https://leetcode.com/problems/132-pattern/submissions/2191450666) |
 | 460 | [LFU Cache](0460-lfu-cache.py) | [2026-10-27 15:05](https://leetcode.com/problems/lfu-cache/submissions/2183387787) |
 | 462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii.py) | [2026-11-08 16:39](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2192141806/) |

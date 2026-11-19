@@ -43,6 +43,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 42 | [Trapping Rain Water](0042-trapping-rain-water.py) | [2026-08-24 12:52](https://leetcode.com/problems/trapping-rain-water/submissions/2118714163) |
 | 45 | [Jump Game II](0045-jump-game-ii.py) | [2026-09-02 14:00](https://leetcode.com/problems/jump-game-ii/submissions/2128812038) |
 | 46 | [Permutations](0046-permutations.py) | [2026-08-31 13:46](https://leetcode.com/problems/permutations/submissions/2126434353) |
+| 47 | [Permutations II](0047-permutations-ii.py) | [2026-11-19 16:05](https://leetcode.com/problems/permutations-ii/submissions/2199613219/) |
 | 48 | [Rotate Image](0048-rotate-image.py) | [2026-09-07 15:50](https://leetcode.com/problems/rotate-image/submissions/2134366860) |
 | 49 | [Group Anagrams](0049-group-anagrams.py) | [2026-08-11 16:16](https://leetcode.com/problems/group-anagrams/submissions/2103412019) |
 | 51 | [N-Queens](0051-n-queens.py) | [2026-08-31 20:48](https://leetcode.com/problems/n-queens/submissions/2126667848) |

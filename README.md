@@ -34,6 +34,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 27 | [Remove Element](0027-remove-element.py) | [2026-09-15 16:18](https://leetcode.com/problems/remove-element/submissions/2143047022) |
 | 31 | [Next Permutation](0031-next-permutation.py) | [2026-11-09 14:07](https://leetcode.com/problems/next-permutation/submissions/2192718788/) |
 | 33 | [Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array.py) | [2026-08-26 20:30](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2121356853) |
+| 34 | [Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array.py) | [2026-11-18 19:21](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2199003686/) |
 | 35 | [Search Insert Position](0035-search-insert-position.py) | [2026-11-07 13:16](https://leetcode.com/problems/search-insert-position/submissions/2191507668) |
 | 36 | [Valid Sudoku](0036-valid-sudoku.py) | [2026-08-11 18:26](https://leetcode.com/problems/valid-sudoku/submissions/2103470772) |
 | 39 | [Combination Sum](0039-combination-sum.py) | [2026-08-31 13:03](https://leetcode.com/problems/combination-sum/submissions/2126377560) |

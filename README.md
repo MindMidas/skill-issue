@@ -91,6 +91,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 142 | [Linked List Cycle II](0142-linked-list-cycle-ii.py) | [2026-11-01 12:56](https://leetcode.com/problems/linked-list-cycle-ii/submissions/2187205126/) |
 | 143 | [Reorder List](0143-reorder-list.py) | [2026-08-27 17:29](https://leetcode.com/problems/reorder-list/submissions/2122373637) |
 | 146 | [LRU Cache](0146-lru-cache.py) | [2026-09-08 13:42](https://leetcode.com/problems/lru-cache/submissions/2135463558) |
+| 148 | [Sort List](0148-sort-list.py) | [2026-11-19 18:28](https://leetcode.com/problems/sort-list/submissions/2199645597/) |
 | 150 | [Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation.py) | [2026-08-12 13:52](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2104580217) |
 | 151 | [Reverse Words in a String](0151-reverse-words-in-a-string.py) | [2026-11-07 11:23](https://leetcode.com/problems/reverse-words-in-a-string/submissions/2191431908) |
 | 152 | [Maximum Product Subarray](0152-maximum-product-subarray.py) | [2026-11-04 13:51](https://leetcode.com/problems/maximum-product-subarray/submissions/2189600567/) |

@@ -62,6 +62,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 84 | [Largest Rectangle in Histogram](0084-largest-rectangle-in-histogram.py) | [2026-08-23 16:24](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2117801406) |
 | 90 | [Subsets II](0090-subsets-ii.py) | [2026-08-31 13:53](https://leetcode.com/problems/subsets-ii/submissions/2126444122) |
 | 92 | [Reverse Linked List II](0092-reverse-linked-list-ii.py) | [2026-10-24 15:49](https://leetcode.com/problems/reverse-linked-list-ii/submissions/2180830952) |
+| 93 | [Restore IP Addresses](0093-restore-ip-addresses.py) | [2026-11-18 19:09](https://leetcode.com/problems/restore-ip-addresses/submissions/2199001330/) |
 | 98 | [Validate Binary Search Tree](0098-validate-binary-search-tree.py) | [2026-08-29 15:31](https://leetcode.com/problems/validate-binary-search-tree/submissions/2124296791) |
 | 100 | [Same Tree](0100-same-tree.py) | [2026-08-29 12:03](https://leetcode.com/problems/same-tree/submissions/2124088308) |
 | 102 | [Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal.py) | [2026-08-29 14:07](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2124224629) |

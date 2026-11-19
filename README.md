@@ -177,6 +177,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream.py) | [2026-09-01 12:45](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2127485577) |
 | 704 | [Binary Search](0704-binary-search.py) | [2026-08-26 14:09](https://leetcode.com/problems/binary-search/submissions/2121154639) |
 | 716 | [Max Stack](0716-max-stack.py) | [2026-10-29 14:58](https://leetcode.com/problems/max-stack/submissions/2185012676) |
+| 721 | [Accounts Merge](0721-accounts-merge.py) | [2026-11-19 14:40](https://leetcode.com/problems/accounts-merge/submissions/2199586301/) |
 | 722 | [Remove Comments](0722-remove-comments.py) | [2026-11-12 14:09](https://leetcode.com/problems/remove-comments/submissions/2194866306/) |
 | 729 | [My Calendar I](0729-my-calendar-i.py) | [2026-11-13 13:11](https://leetcode.com/problems/my-calendar-i/submissions/2195487484/) |
 | 731 | [My Calendar II](0731-my-calendar-ii.py) | [2026-11-14 11:13](https://leetcode.com/problems/my-calendar-ii/submissions/2196040525/) |

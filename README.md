@@ -107,6 +107,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 206 | [Reverse Linked List](0206-reverse-linked-list.py) | [2026-08-27 15:13](https://leetcode.com/problems/reverse-linked-list/submissions/2122300474) |
 | 207 | [Course Schedule](0207-course-schedule.py) | [2026-09-08 14:56](https://leetcode.com/problems/course-schedule/submissions/2135554469) |
 | 208 | [Implement Trie (Prefix Tree)](0208-implement-trie-prefix-tree.py) | [2026-08-30 16:45](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/2125473769) |
+| 209 | [Minimum Size Subarray Sum](0209-minimum-size-subarray-sum.py) | [2026-11-19 15:08](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2199596057/) |
 | 210 | [Course Schedule II](0210-course-schedule-ii.py) | [2026-09-05 12:45](https://leetcode.com/problems/course-schedule-ii/submissions/2131940864) |
 | 211 | [Design Add and Search Words Data Structure](0211-design-add-and-search-words-data-structure.py) | [2026-08-30 17:34](https://leetcode.com/problems/design-add-and-search-words-data-structure/submissions/2125494017) |
 | 212 | [Word Search II](0212-word-search-ii.py) | [2026-08-31 11:35](https://leetcode.com/problems/word-search-ii/submissions/2126269671) |

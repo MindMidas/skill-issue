@@ -167,6 +167,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 636 | [Exclusive Time of Functions](0636-exclusive-time-of-functions.py) | [2026-09-21 18:53](https://leetcode.com/problems/exclusive-time-of-functions/submissions/2149147574) |
 | 642 | [Design Search Autocomplete System](0642-design-search-autocomplete-system.py) | [2026-11-07 12:20](https://leetcode.com/problems/design-search-autocomplete-system/submissions/2191469378) |
 | 647 | [Palindromic Substrings](0647-palindromic-substrings.py) | [2026-09-06 17:04](https://leetcode.com/problems/palindromic-substrings/submissions/2133292742) |
+| 662 | [Maximum Width of Binary Tree](0662-maximum-width-of-binary-tree.py) | [2026-11-18 19:53](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/2199011015/) |
 | 678 | [Valid Parenthesis String](0678-valid-parenthesis-string.py) | [2026-09-03 16:10](https://leetcode.com/problems/valid-parenthesis-string/submissions/2130069794) |
 | 680 | [Valid Palindrome II](0680-valid-palindrome-ii.py) | [2026-11-08 17:46](https://leetcode.com/problems/valid-palindrome-ii/submissions/2192157522/) |
 | 684 | [Redundant Connection](0684-redundant-connection.py) | [2026-09-05 13:42](https://leetcode.com/problems/redundant-connection/submissions/2132005168) |

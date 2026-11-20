@@ -223,6 +223,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1152 | [Analyze User Website Visit Pattern](1152-analyze-user-website-visit-pattern.py) | [2026-11-07 14:37](https://leetcode.com/problems/analyze-user-website-visit-pattern/submissions/2191548215/) |
 | 1169 | [Invalid Transactions](1169-invalid-transactions.py) | [2026-11-09 12:44](https://leetcode.com/problems/invalid-transactions/submissions/2192667655/) |
 | 1254 | [Number of Closed Islands](1254-number-of-closed-islands.py) | [2026-11-06 12:42](https://leetcode.com/problems/number-of-closed-islands/submissions/2190866583/) |
+| 1288 | [Remove Covered Intervals](1288-remove-covered-intervals.py) | [2026-11-20 13:19](https://leetcode.com/problems/remove-covered-intervals/submissions/2200164115/) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](1290-convert-binary-number-in-a-linked-list-to-integer.py) | [2026-10-24 14:26](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/2180779062) |
 | 1348 | [Tweet Counts Per Frequency](1348-tweet-counts-per-frequency.py) | [2026-11-11 17:25](https://leetcode.com/problems/tweet-counts-per-frequency/submissions/2194201394/) |
 | 1357 | [Apply Discount Every n Orders](1357-apply-discount-every-n-orders.py) | [2026-11-12 14:25](https://leetcode.com/problems/apply-discount-every-n-orders/submissions/2194873843/) |

@@ -243,6 +243,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1797 | [Design Authentication Manager](1797-design-authentication-manager.py) | [2026-11-11 12:34](https://leetcode.com/problems/design-authentication-manager/submissions/2194071188/) |
 | 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string.py) | [2026-11-15 13:20](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/submissions/2196826154/) |
 | 1823 | [Find the Winner of the Circular Game](1823-find-the-winner-of-the-circular-game.py) | [2026-10-30 13:16](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/2185680041/) |
+| 1834 | [Single-Threaded CPU](1834-single-threaded-cpu.py) | [2026-11-20 19:05](https://leetcode.com/problems/single-threaded-cpu/submissions/2200259981/) |
 | 1845 | [Seat Reservation Manager](1845-seat-reservation-manager.py) | [2026-11-12 13:35](https://leetcode.com/problems/seat-reservation-manager/submissions/2194848180/) |
 | 1851 | [Minimum Interval to Include Each Query](1851-minimum-interval-to-include-each-query.py) | [2026-09-02 12:06](https://leetcode.com/problems/minimum-interval-to-include-each-query/submissions/2128653002) |
 | 1899 | [Merge Triplets to Form Target Triplet](1899-merge-triplets-to-form-target-triplet.py) | [2026-09-03 14:58](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/submissions/2130016479) |

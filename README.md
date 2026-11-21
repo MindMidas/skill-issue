@@ -161,6 +161,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 460 | [LFU Cache](0460-lfu-cache.py) | [2026-10-27 15:05](https://leetcode.com/problems/lfu-cache/submissions/2183387787) |
 | 462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii.py) | [2026-11-08 16:39](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2192141806/) |
 | 494 | [Target Sum](0494-target-sum.py) | [2026-09-07 13:05](https://leetcode.com/problems/target-sum/submissions/2134179839) |
+| 503 | [Next Greater Element II](0503-next-greater-element-ii.py) | [2026-11-21 17:20](https://leetcode.com/problems/next-greater-element-ii/submissions/2200846588/) |
 | 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree.py) | [2026-08-28 21:39](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2123368930) |
 | 545 | [Boundary of Binary Tree](0545-boundary-of-binary-tree.py) | [2026-10-29 12:01](https://leetcode.com/problems/boundary-of-binary-tree/submissions/2184854171) |

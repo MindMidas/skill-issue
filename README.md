@@ -62,6 +62,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 78 | [Subsets](0078-subsets.py) | [2026-08-31 12:53](https://leetcode.com/problems/subsets/submissions/2126363615) |
 | 79 | [Word Search](0079-word-search.py) | [2026-08-31 16:05](https://leetcode.com/problems/word-search/submissions/2126566263) |
 | 84 | [Largest Rectangle in Histogram](0084-largest-rectangle-in-histogram.py) | [2026-08-23 16:24](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2117801406) |
+| 86 | [Partition List](0086-partition-list.py) | [2026-11-22 12:16](https://leetcode.com/problems/partition-list/submissions/2201418466/) |
 | 90 | [Subsets II](0090-subsets-ii.py) | [2026-08-31 13:53](https://leetcode.com/problems/subsets-ii/submissions/2126444122) |
 | 91 | [Decode Ways](0091-decode-ways.py) | [2026-11-21 14:55](https://leetcode.com/problems/decode-ways/submissions/2200808643/) |
 | 92 | [Reverse Linked List II](0092-reverse-linked-list-ii.py) | [2026-10-24 15:49](https://leetcode.com/problems/reverse-linked-list-ii/submissions/2180830952) |

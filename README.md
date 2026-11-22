@@ -186,6 +186,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 696 | [Count Binary Substrings](0696-count-binary-substrings.py) | [2026-11-01 12:49](https://leetcode.com/problems/count-binary-substrings/submissions/2187198565/) |
 | 703 | [Kth Largest Element in a Stream](0703-kth-largest-element-in-a-stream.py) | [2026-09-01 12:45](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/2127485577) |
 | 704 | [Binary Search](0704-binary-search.py) | [2026-08-26 14:09](https://leetcode.com/problems/binary-search/submissions/2121154639) |
+| 713 | [Subarray Product Less Than K](0713-subarray-product-less-than-k.py) | [2026-11-22 14:45](https://leetcode.com/problems/subarray-product-less-than-k/submissions/2201497633/) |
 | 716 | [Max Stack](0716-max-stack.py) | [2026-10-29 14:58](https://leetcode.com/problems/max-stack/submissions/2185012676) |
 | 721 | [Accounts Merge](0721-accounts-merge.py) | [2026-11-19 14:40](https://leetcode.com/problems/accounts-merge/submissions/2199586301/) |
 | 722 | [Remove Comments](0722-remove-comments.py) | [2026-11-12 14:09](https://leetcode.com/problems/remove-comments/submissions/2194866306/) |

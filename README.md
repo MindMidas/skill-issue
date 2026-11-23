@@ -213,6 +213,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 881 | [Boats to Save People](0881-boats-to-save-people.py) | [2026-11-21 15:58](https://leetcode.com/problems/boats-to-save-people/submissions/2200827300/) |
 | 895 | [Maximum Frequency Stack](0895-maximum-frequency-stack.py) | [2026-10-25 13:33](https://leetcode.com/problems/maximum-frequency-stack/submissions/2181606698) |
 | 900 | [RLE Iterator](0900-rle-iterator.py) | [2026-11-13 12:41](https://leetcode.com/problems/rle-iterator/submissions/2195466474/) |
+| 904 | [Fruit Into Baskets](0904-fruit-into-baskets.py) | [2026-11-23 10:36](https://leetcode.com/problems/fruit-into-baskets/submissions/2202012713/) |
 | 905 | [Sort Array By Parity](0905-sort-array-by-parity.py) | [2026-11-07 13:30](https://leetcode.com/problems/sort-array-by-parity/submissions/2191517115/) |
 | 907 | [Sum of Subarray Minimums](0907-sum-of-subarray-minimums.py) | [2026-11-17 14:29](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/2198256069/) |
 | 933 | [Number of Recent Calls](0933-number-of-recent-calls.py) | [2026-11-12 12:34](https://leetcode.com/problems/number-of-recent-calls/submissions/2194804242/) |

@@ -118,6 +118,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 212 | [Word Search II](0212-word-search-ii.py) | [2026-08-31 11:35](https://leetcode.com/problems/word-search-ii/submissions/2126269671) |
 | 213 | [House Robber II](0213-house-robber-ii.py) | [2026-09-06 16:16](https://leetcode.com/problems/house-robber-ii/submissions/2133269854) |
 | 215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array.py) | [2026-09-01 14:18](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2127622272) |
+| 216 | [Combination Sum III](0216-combination-sum-iii.py) | [2026-11-23 11:53](https://leetcode.com/problems/combination-sum-iii/submissions/2202065493/) |
 | 217 | [Contains Duplicate](0217-contains-duplicate.py) | [2026-08-11 15:13](https://leetcode.com/problems/contains-duplicate/submissions/2103362951) |
 | 219 | [Contains Duplicate II](0219-contains-duplicate-ii.py) | [2026-11-03 18:01](https://leetcode.com/problems/contains-duplicate-ii/submissions/2188967777/) |
 | 226 | [Invert Binary Tree](0226-invert-binary-tree.py) | [2026-08-28 20:22](https://leetcode.com/problems/invert-binary-tree/submissions/2123351051) |

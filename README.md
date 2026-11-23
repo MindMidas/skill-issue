@@ -168,6 +168,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 503 | [Next Greater Element II](0503-next-greater-element-ii.py) | [2026-11-21 17:20](https://leetcode.com/problems/next-greater-element-ii/submissions/2200846588/) |
 | 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |
 | 518 | [Coin Change II](0518-coin-change-ii.py) | [2026-11-22 15:50](https://leetcode.com/problems/coin-change-ii/submissions/2201519029/) |
+| 523 | [Continuous Subarray Sum](0523-continuous-subarray-sum.py) | [2026-11-23 16:05](https://leetcode.com/problems/continuous-subarray-sum/submissions/2202195978/) |
 | 540 | [Single Element in a Sorted Array](0540-single-element-in-a-sorted-array.py) | [2026-11-22 14:12](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2201484951/) |
 | 543 | [Diameter of Binary Tree](0543-diameter-of-binary-tree.py) | [2026-08-28 21:39](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2123368930) |
 | 545 | [Boundary of Binary Tree](0545-boundary-of-binary-tree.py) | [2026-10-29 12:01](https://leetcode.com/problems/boundary-of-binary-tree/submissions/2184854171) |

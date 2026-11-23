@@ -235,6 +235,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1087 | [Brace Expansion](1087-brace-expansion.py) | [2026-11-10 14:10](https://leetcode.com/problems/brace-expansion/submissions/2193422185/) |
 | 1091 | [Shortest Path in Binary Matrix](1091-shortest-path-in-binary-matrix.py) | [2026-11-23 13:33](https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/2202136473/) |
 | 1094 | [Car Pooling](1094-car-pooling.py) | [2026-11-13 10:28](https://leetcode.com/problems/car-pooling/submissions/2195375160/) |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence.py) | [2026-11-23 16:24](https://leetcode.com/problems/longest-common-subsequence/submissions/2202201065/) |
 | 1146 | [Snapshot Array](1146-snapshot-array.py) | [2026-10-29 16:58](https://leetcode.com/problems/snapshot-array/submissions/2185068444/) |
 | 1152 | [Analyze User Website Visit Pattern](1152-analyze-user-website-visit-pattern.py) | [2026-11-07 14:37](https://leetcode.com/problems/analyze-user-website-visit-pattern/submissions/2191548215/) |
 | 1169 | [Invalid Transactions](1169-invalid-transactions.py) | [2026-11-09 12:44](https://leetcode.com/problems/invalid-transactions/submissions/2192667655/) |

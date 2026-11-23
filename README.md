@@ -230,6 +230,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii.py) | [2026-10-29 16:19](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2185053365/) |
 | 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days.py) | [2026-11-17 11:53](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2198152324/) |
 | 1014 | [Best Sightseeing Pair](1014-best-sightseeing-pair.py) | [2026-10-25 15:32](https://leetcode.com/problems/best-sightseeing-pair/submissions/2181697739) |
+| 1019 | [Next Greater Node In Linked List](1019-next-greater-node-in-linked-list.py) | [2026-11-23 16:57](https://leetcode.com/problems/next-greater-node-in-linked-list/submissions/2202209452/) |
 | 1029 | [Two City Scheduling](1029-two-city-scheduling.py) | [2026-11-23 13:12](https://leetcode.com/problems/two-city-scheduling/submissions/2202122805/) |
 | 1046 | [Last Stone Weight](1046-last-stone-weight.py) | [2026-09-01 13:40](https://leetcode.com/problems/last-stone-weight/submissions/2127568410) |
 | 1087 | [Brace Expansion](1087-brace-expansion.py) | [2026-11-10 14:10](https://leetcode.com/problems/brace-expansion/submissions/2193422185/) |

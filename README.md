@@ -227,6 +227,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 968 | [Binary Tree Cameras](0968-binary-tree-cameras.py) | [2026-10-29 15:26](https://leetcode.com/problems/binary-tree-cameras/submissions/2185028495) |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin.py) | [2026-09-01 14:13](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2127615500) |
 | 981 | [Time Based Key-Value Store](0981-time-based-key-value-store.py) | [2026-08-26 21:59](https://leetcode.com/problems/time-based-key-value-store/submissions/2121386085) |
+| 983 | [Minimum Cost For Tickets](0983-minimum-cost-for-tickets.py) | [2026-11-24 12:00](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/2202733521/) |
 | 986 | [Interval List Intersections](0986-interval-list-intersections.py) | [2026-11-19 11:43](https://leetcode.com/problems/interval-list-intersections/submissions/2199479255/) |
 | 994 | [Rotting Oranges](0994-rotting-oranges.py) | [2026-09-04 12:51](https://leetcode.com/problems/rotting-oranges/submissions/2130930729) |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii.py) | [2026-10-29 16:19](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2185053365/) |

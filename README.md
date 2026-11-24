@@ -76,6 +76,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](0105-construct-binary-tree-from-preorder-and-inorder-traversal.py) | [2026-08-30 15:54](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/2125446297) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](0106-construct-binary-tree-from-inorder-and-postorder-traversal.py) | [2026-09-19 14:00](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/2146922413) |
 | 110 | [Balanced Binary Tree](0110-balanced-binary-tree.py) | [2026-08-28 21:59](https://leetcode.com/problems/balanced-binary-tree/submissions/2123374062) |
+| 114 | [Flatten Binary Tree to Linked List](0114-flatten-binary-tree-to-linked-list.py) | [2026-11-24 18:17](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2202886480/) |
 | 121 | [Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock.py) | [2026-08-24 13:36](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2118776815) |
 | 124 | [Binary Tree Maximum Path Sum](0124-binary-tree-maximum-path-sum.py) | [2026-08-30 15:56](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/2125447444) |
 | 125 | [Valid Palindrome](0125-valid-palindrome.py) | [2026-08-23 16:30](https://leetcode.com/problems/valid-palindrome/submissions/2117804420) |

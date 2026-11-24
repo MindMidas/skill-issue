@@ -224,6 +224,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 904 | [Fruit Into Baskets](0904-fruit-into-baskets.py) | [2026-11-23 10:36](https://leetcode.com/problems/fruit-into-baskets/submissions/2202012713/) |
 | 905 | [Sort Array By Parity](0905-sort-array-by-parity.py) | [2026-11-07 13:30](https://leetcode.com/problems/sort-array-by-parity/submissions/2191517115/) |
 | 907 | [Sum of Subarray Minimums](0907-sum-of-subarray-minimums.py) | [2026-11-17 14:29](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/2198256069/) |
+| 930 | [Binary Subarrays With Sum](0930-binary-subarrays-with-sum.py) | [2026-11-24 17:26](https://leetcode.com/problems/binary-subarrays-with-sum/submissions/2202875696/) |
 | 933 | [Number of Recent Calls](0933-number-of-recent-calls.py) | [2026-11-12 12:34](https://leetcode.com/problems/number-of-recent-calls/submissions/2194804242/) |
 | 934 | [Shortest Bridge](0934-shortest-bridge.py) | [2026-11-24 11:17](https://leetcode.com/problems/shortest-bridge/submissions/2202703845/) |
 | 937 | [Reorder Data in Log Files](0937-reorder-data-in-log-files.py) | [2026-11-11 14:26](https://leetcode.com/problems/reorder-data-in-log-files/submissions/2194141078/) |

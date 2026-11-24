@@ -154,6 +154,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 387 | [First Unique Character in a String](0387-first-unique-character-in-a-string.py) | [2026-11-07 18:51](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2191615578/) |
 | 394 | [Decode String](0394-decode-string.py) | [2026-10-25 12:55](https://leetcode.com/problems/decode-string/submissions/2181573318) |
 | 402 | [Remove K Digits](0402-remove-k-digits.py) | [2026-11-03 17:39](https://leetcode.com/problems/remove-k-digits/submissions/2188962482/) |
+| 406 | [Queue Reconstruction by Height](0406-queue-reconstruction-by-height.py) | [2026-11-24 16:55](https://leetcode.com/problems/queue-reconstruction-by-height/submissions/2202868461/) |
 | 412 | [Fizz Buzz](0412-fizz-buzz.py) | [2026-09-20 16:32](https://leetcode.com/problems/fizz-buzz/submissions/2148076765) |
 | 416 | [Partition Equal Subset Sum](0416-partition-equal-subset-sum.py) | [2026-11-18 13:22](https://leetcode.com/problems/partition-equal-subset-sum/submissions/2198895472/) |
 | 417 | [Pacific Atlantic Water Flow](0417-pacific-atlantic-water-flow.py) | [2026-09-04 13:49](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2130997355) |

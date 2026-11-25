@@ -256,6 +256,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1357 | [Apply Discount Every n Orders](1357-apply-discount-every-n-orders.py) | [2026-11-12 14:25](https://leetcode.com/problems/apply-discount-every-n-orders/submissions/2194873843/) |
 | 1381 | [Design a Stack With Increment Operation](1381-design-a-stack-with-increment-operation.py) | [2026-11-12 12:56](https://leetcode.com/problems/design-a-stack-with-increment-operation/submissions/2194820621/) |
 | 1396 | [Design Underground System](1396-design-underground-system.py) | [2026-11-11 11:23](https://leetcode.com/problems/design-underground-system/submissions/2194016776/) |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) | [2026-11-25 10:50](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/2203325800/) |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree.py) | [2026-08-29 15:13](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2124283950) |
 | 1472 | [Design Browser History](1472-design-browser-history.py) | [2026-11-12 12:17](https://leetcode.com/problems/design-browser-history/submissions/2194790896/) |
 | 1476 | [Subrectangle Queries](1476-subrectangle-queries.py) | [2026-11-13 12:51](https://leetcode.com/problems/subrectangle-queries/submissions/2195473719/) |

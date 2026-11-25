@@ -233,6 +233,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 933 | [Number of Recent Calls](0933-number-of-recent-calls.py) | [2026-11-12 12:34](https://leetcode.com/problems/number-of-recent-calls/submissions/2194804242/) |
 | 934 | [Shortest Bridge](0934-shortest-bridge.py) | [2026-11-24 11:17](https://leetcode.com/problems/shortest-bridge/submissions/2202703845/) |
 | 937 | [Reorder Data in Log Files](0937-reorder-data-in-log-files.py) | [2026-11-11 14:26](https://leetcode.com/problems/reorder-data-in-log-files/submissions/2194141078/) |
+| 946 | [Validate Stack Sequences](0946-validate-stack-sequences.py) | [2026-11-25 14:19](https://leetcode.com/problems/validate-stack-sequences/submissions/2203464813/) |
 | 968 | [Binary Tree Cameras](0968-binary-tree-cameras.py) | [2026-10-29 15:26](https://leetcode.com/problems/binary-tree-cameras/submissions/2185028495) |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin.py) | [2026-09-01 14:13](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2127615500) |
 | 981 | [Time Based Key-Value Store](0981-time-based-key-value-store.py) | [2026-08-26 21:59](https://leetcode.com/problems/time-based-key-value-store/submissions/2121386085) |

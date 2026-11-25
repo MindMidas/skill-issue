@@ -169,6 +169,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 456 | [132 Pattern](0456-132-pattern.py) | [2026-11-07 11:52](https://leetcode.com/problems/132-pattern/submissions/2191450666) |
 | 460 | [LFU Cache](0460-lfu-cache.py) | [2026-10-27 15:05](https://leetcode.com/problems/lfu-cache/submissions/2183387787) |
 | 462 | [Minimum Moves to Equal Array Elements II](0462-minimum-moves-to-equal-array-elements-ii.py) | [2026-11-08 16:39](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2192141806/) |
+| 473 | [Matchsticks to Square](0473-matchsticks-to-square.py) | [2026-11-25 12:57](https://leetcode.com/problems/matchsticks-to-square/submissions/2203416598/) |
 | 494 | [Target Sum](0494-target-sum.py) | [2026-09-07 13:05](https://leetcode.com/problems/target-sum/submissions/2134179839) |
 | 503 | [Next Greater Element II](0503-next-greater-element-ii.py) | [2026-11-21 17:20](https://leetcode.com/problems/next-greater-element-ii/submissions/2200846588/) |
 | 516 | [Longest Palindromic Subsequence](0516-longest-palindromic-subsequence.py) | [2026-10-29 11:25](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/2184825452) |

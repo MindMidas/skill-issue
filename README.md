@@ -105,6 +105,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 162 | [Find Peak Element](0162-find-peak-element.py) | [2026-11-23 12:16](https://leetcode.com/problems/find-peak-element/submissions/2202082931/) |
 | 167 | [Two Sum II - Input Array Is Sorted](0167-two-sum-ii-input-array-is-sorted.py) | [2026-11-16 14:46](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2197570363/) |
 | 169 | [Majority Element](0169-majority-element.py) | [2026-11-08 17:32](https://leetcode.com/problems/majority-element/submissions/2192154601/) |
+| 187 | [Repeated DNA Sequences](0187-repeated-dna-sequences.py) | [2026-11-25 11:44](https://leetcode.com/problems/repeated-dna-sequences/submissions/2203362448/) |
 | 189 | [Rotate Array](0189-rotate-array.py) | [2026-10-26 14:22](https://leetcode.com/problems/rotate-array/submissions/2182514280) |
 | 191 | [Number of 1 Bits](0191-number-of-1-bits.py) | [2026-11-16 14:37](https://leetcode.com/problems/number-of-1-bits/submissions/2197566610/) |
 | 198 | [House Robber](0198-house-robber.py) | [2026-09-06 16:07](https://leetcode.com/problems/house-robber/submissions/2133264380) |

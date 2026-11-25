@@ -83,6 +83,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 126 | [Word Ladder II](0126-word-ladder-ii.py) | [2026-10-26 13:06](https://leetcode.com/problems/word-ladder-ii/submissions/2182437165) |
 | 127 | [Word Ladder](0127-word-ladder.py) | [2026-09-05 14:50](https://leetcode.com/problems/word-ladder/submissions/2132079017) |
 | 128 | [Longest Consecutive Sequence](0128-longest-consecutive-sequence.py) | [2026-08-12 12:56](https://leetcode.com/problems/longest-consecutive-sequence/submissions/2104492590) |
+| 129 | [Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers.py) | [2026-11-25 13:23](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2203434695/) |
 | 130 | [Surrounded Regions](0130-surrounded-regions.py) | [2026-09-04 14:25](https://leetcode.com/problems/surrounded-regions/submissions/2131038456) |
 | 131 | [Palindrome Partitioning](0131-palindrome-partitioning.py) | [2026-08-31 16:21](https://leetcode.com/problems/palindrome-partitioning/submissions/2126575116) |
 | 133 | [Clone Graph](0133-clone-graph.py) | [2026-09-03 22:52](https://leetcode.com/problems/clone-graph/submissions/2130211344) |

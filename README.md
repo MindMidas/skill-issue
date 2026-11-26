@@ -134,6 +134,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 239 | [Sliding Window Maximum](0239-sliding-window-maximum.py) | [2026-08-26 12:23](https://leetcode.com/problems/sliding-window-maximum/submissions/2121020513) |
 | 242 | [Valid Anagram](0242-valid-anagram.py) | [2026-08-11 15:36](https://leetcode.com/problems/valid-anagram/submissions/2103383476) |
 | 253 | [Meeting Rooms II](0253-meeting-rooms-ii.py) | [2026-10-26 20:41](https://leetcode.com/problems/meeting-rooms-ii/submissions/2182667532) |
+| 279 | [Perfect Squares](0279-perfect-squares.py) | [2026-11-26 11:26](https://leetcode.com/problems/perfect-squares/submissions/2204027869/) |
 | 283 | [Move Zeroes](0283-move-zeroes.py) | [2026-11-03 16:42](https://leetcode.com/problems/move-zeroes/submissions/2188947505/) |
 | 287 | [Find the Duplicate Number](0287-find-the-duplicate-number.py) | [2026-08-28 17:19](https://leetcode.com/problems/find-the-duplicate-number/submissions/2123302074) |
 | 295 | [Find Median from Data Stream](0295-find-median-from-data-stream.py) | [2026-09-01 19:59](https://leetcode.com/problems/find-median-from-data-stream/submissions/2127807191) |

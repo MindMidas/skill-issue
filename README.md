@@ -238,6 +238,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 946 | [Validate Stack Sequences](0946-validate-stack-sequences.py) | [2026-11-25 14:19](https://leetcode.com/problems/validate-stack-sequences/submissions/2203464813/) |
 | 968 | [Binary Tree Cameras](0968-binary-tree-cameras.py) | [2026-10-29 15:26](https://leetcode.com/problems/binary-tree-cameras/submissions/2185028495) |
 | 973 | [K Closest Points to Origin](0973-k-closest-points-to-origin.py) | [2026-09-01 14:13](https://leetcode.com/problems/k-closest-points-to-origin/submissions/2127615500) |
+| 978 | [Longest Turbulent Subarray](0978-longest-turbulent-subarray.py) | [2026-11-26 13:38](https://leetcode.com/problems/longest-turbulent-subarray/submissions/2204125491/) |
 | 981 | [Time Based Key-Value Store](0981-time-based-key-value-store.py) | [2026-08-26 21:59](https://leetcode.com/problems/time-based-key-value-store/submissions/2121386085) |
 | 983 | [Minimum Cost For Tickets](0983-minimum-cost-for-tickets.py) | [2026-11-24 12:00](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/2202733521/) |
 | 986 | [Interval List Intersections](0986-interval-list-intersections.py) | [2026-11-19 11:43](https://leetcode.com/problems/interval-list-intersections/submissions/2199479255/) |

@@ -163,6 +163,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 416 | [Partition Equal Subset Sum](0416-partition-equal-subset-sum.py) | [2026-11-18 13:22](https://leetcode.com/problems/partition-equal-subset-sum/submissions/2198895472/) |
 | 417 | [Pacific Atlantic Water Flow](0417-pacific-atlantic-water-flow.py) | [2026-09-04 13:49](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/2130997355) |
 | 424 | [Longest Repeating Character Replacement](0424-longest-repeating-character-replacement.py) | [2026-08-24 14:22](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2118840071) |
+| 430 | [Flatten a Multilevel Doubly Linked List](0430-flatten-a-multilevel-doubly-linked-list.py) | [2026-11-26 10:57](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/submissions/2204007579/) |
 | 435 | [Non-overlapping Intervals](0435-non-overlapping-intervals.py) | [2026-09-02 11:30](https://leetcode.com/problems/non-overlapping-intervals/submissions/2128609836) |
 | 437 | [Path Sum III](0437-path-sum-iii.py) | [2026-11-21 16:46](https://leetcode.com/problems/path-sum-iii/submissions/2200838993/) |
 | 438 | [Find All Anagrams in a String](0438-find-all-anagrams-in-a-string.py) | [2026-11-18 12:42](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/2198866921/) |

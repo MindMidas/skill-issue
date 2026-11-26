@@ -266,6 +266,7 @@ My LeetCode and HackerRank solutions in Python, with short notes on the approach
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree.py) | [2026-08-29 15:13](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2124283950) |
 | 1472 | [Design Browser History](1472-design-browser-history.py) | [2026-11-12 12:17](https://leetcode.com/problems/design-browser-history/submissions/2194790896/) |
 | 1476 | [Subrectangle Queries](1476-subrectangle-queries.py) | [2026-11-13 12:51](https://leetcode.com/problems/subrectangle-queries/submissions/2195473719/) |
+| 1482 | [Minimum Number of Days to Make m Bouquets](1482-minimum-number-of-days-to-make-m-bouquets.py) | [2026-11-26 12:37](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/2204081483/) |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](1493-longest-subarray-of-1s-after-deleting-one-element.py) | [2026-11-25 14:07](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/submissions/2203459069/) |
 | 1514 | [Path with Maximum Probability](1514-path-with-maximum-probability.py) | [2026-11-26 10:33](https://leetcode.com/problems/path-with-maximum-probability/submissions/2203992219/) |
 | 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number.py) | [2026-11-05 15:27](https://leetcode.com/problems/kth-missing-positive-number/submissions/2190345018/) |
